@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day4\\StudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743043A1-D4ED-4458-ADE6-8622685830D8}|StudentApp\\StudentApp.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day4\\studentapp\\studentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743043A1-D4ED-4458-ADE6-8622685830D8}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743043A1-D4ED-4458-ADE6-8622685830D8}|StudentApp\\StudentApp.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day4\\studentapp\\studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743043A1-D4ED-4458-ADE6-8622685830D8}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day4\\StudentApp\\StudentApp\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Student.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day4\\StudentApp\\StudentApp\\Student.cs",
+              "RelativeToolTip": "StudentApp\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:35:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day4\\StudentApp\\StudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day4\\StudentApp\\StudentApp\\Program.cs",
+              "RelativeToolTip": "StudentApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:34:36.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

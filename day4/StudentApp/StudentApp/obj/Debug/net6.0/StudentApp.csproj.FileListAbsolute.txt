@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day4\StudentApp\StudentApp\obj\Debug\net6.0\ref\StudentApp.dll
