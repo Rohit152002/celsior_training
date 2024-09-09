@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\bin\Debug\net6.0\lesson2.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\bin\Debug\net6.0\lesson2.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\bin\Debug\net6.0\lesson2.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\bin\Debug\net6.0\lesson2.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\bin\Debug\net6.0\lesson2.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\refint\lesson2.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day4\lesson2\lesson2\obj\Debug\net6.0\ref\lesson2.dll
