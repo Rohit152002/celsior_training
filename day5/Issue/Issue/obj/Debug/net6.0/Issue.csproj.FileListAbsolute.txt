@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\bin\Debug\net6.0\Issue.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\bin\Debug\net6.0\Issue.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\bin\Debug\net6.0\Issue.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\bin\Debug\net6.0\Issue.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\bin\Debug\net6.0\Issue.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\refint\Issue.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\Issue.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day5\Issue\Issue\obj\Debug\net6.0\ref\Issue.dll

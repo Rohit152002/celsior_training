@@ -13,7 +13,7 @@ namespace Lesson2_part2
         {
             this.array = A;
         }
-
+        
         public int findOddOccurrenceInArray()
         {
             int result = 0;

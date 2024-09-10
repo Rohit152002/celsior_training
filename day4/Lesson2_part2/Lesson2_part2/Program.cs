@@ -4,17 +4,20 @@
     {
         static void Main(string[] args)
         {
-            int k,result;
-            Console.WriteLine("element no. ");
-            k=Convert.ToInt32(Console.ReadLine());
-            int[] inputArray = new int[k];
-            for(int i=0;i<inputArray.Length;i++)
-            {
-                inputArray[i] = Convert.ToInt32(Console.ReadLine());
-            }
-            Solution sln1 = new Solution(inputArray);
-            result=sln1.findOddOccurrenceInArray();
-            Console.WriteLine("Odd occurence is " + result);
+            //    int k,result;
+            //    Console.WriteLine("element no. ");
+            //    k=Convert.ToInt32(Console.ReadLine());
+            //    int[] inputArray = new int[k];
+            //    for(int i=0;i<inputArray.Length;i++)
+            //    {
+            //        inputArray[i] = Convert.ToInt32(Console.ReadLine());
+
+            //    }
+            //    Solution sln1 = new Solution(inputArray);
+            //    result=sln1.findOddOccurrenceInArray();
+            //    Console.WriteLine("Odd occurence is " + result);
+            Employee empl1 = new Employee(12, "hello", "hello", "world", "how");
+            empl1.print();
         }
     }
 }
