@@ -9,7 +9,7 @@ namespace Assignment
 {
     internal class DivisibleByThree
     {
-        public int[] list { get; set; }
+        public List<int> list { get; set; }
 
         bool isDivisblebyThree(int n)
         {
@@ -17,31 +17,22 @@ namespace Assignment
             return false;
         }
 
-        public DivisibleByThree(int[] list)
+        public DivisibleByThree(List<int> list)
         {
             this.list = list;
         }
 
-        public int[] listOfDivisibleNumberByThree()
+        public List<int> listOfDivisibleNumberByThree()
         {
-            int count = 0;
-
-            for (int i=0; i<list.Length; i++)
+            List<int> result = new List<int>();
+            foreach (var number in list)
             {
-                if (isDivisblebyThree(i)) count++;
-            }
-            int[] listNumbers= new int[count];
-            int index = 0;
-            for (int i = 0; i < listNumbers.Length; i++)
-            { 
-                if (!isDivisblebyThree(list[i]))
+                if (isDivisblebyThree(number))
                 {
-                    listNumbers[index] = list[i];
-                    index++;
+                    result.Add(number);
                 }
             }
-        return listNumbers;
+            return result;
         }
-
     }
 }

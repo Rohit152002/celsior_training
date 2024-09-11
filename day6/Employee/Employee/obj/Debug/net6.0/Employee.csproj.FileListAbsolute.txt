@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\bin\Debug\net6.0\Employee.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day6\Employee\Employee\obj\Debug\net6.0\ref\Employee.dll

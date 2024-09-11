@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day5\\assignment\\assignment\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day5\\assignment\\assignment\\divisiblebythree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\divisiblebythree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day5\\assignment\\assignment\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day5\\assignment\\assignment\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986EF45F-E2D6-467C-8401-A01298A4A49B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DivisibleByThree.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day5\\Assignment\\Assignment\\DivisibleByThree.cs",
+              "RelativeDocumentMoniker": "Assignment\\DivisibleByThree.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day5\\Assignment\\Assignment\\DivisibleByThree.cs",
+              "RelativeToolTip": "Assignment\\DivisibleByThree.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:51:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Prime.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day5\\Assignment\\Assignment\\Prime.cs",
               "RelativeDocumentMoniker": "Assignment\\Prime.cs",
@@ -42,8 +59,7 @@
               "RelativeToolTip": "Assignment\\Prime.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAqwCcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:30:27.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T18:30:27.679Z"
             },
             {
               "$type": "Document",
@@ -55,8 +71,7 @@
               "RelativeToolTip": "Assignment\\Average.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:11:34.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T18:11:34.263Z"
             },
             {
               "$type": "Document",
@@ -66,7 +81,7 @@
               "RelativeDocumentMoniker": "Assignment\\Program.cs",
               "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day5\\Assignment\\Assignment\\Program.cs",
               "RelativeToolTip": "Assignment\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T17:21:25.823Z",
               "EditorCaption": ""
