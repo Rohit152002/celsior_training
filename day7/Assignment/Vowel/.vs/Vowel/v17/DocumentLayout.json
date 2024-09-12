@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\Vowel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B6305-5611-499D-AD77-189FEDC9C9FB}|Vowel\\Vowel.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\assignment\\vowel\\vowel\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B6305-5611-499D-AD77-189FEDC9C9FB}|Vowel\\Vowel.csproj|solutionrelative:vowel\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B6305-5611-499D-AD77-189FEDC9C9FB}|Vowel\\Vowel.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\assignment\\vowel\\vowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B6305-5611-499D-AD77-189FEDC9C9FB}|Vowel\\Vowel.csproj|solutionrelative:vowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\Vowel\\Vowel\\Word.cs",
+              "RelativeDocumentMoniker": "Vowel\\Word.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\Vowel\\Vowel\\Word.cs",
+              "RelativeToolTip": "Vowel\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:36:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\Vowel\\Vowel\\Program.cs",
+              "RelativeDocumentMoniker": "Vowel\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\Vowel\\Vowel\\Program.cs",
+              "RelativeToolTip": "Vowel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:32:06.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day6\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day6\\bank\\bank\\bankaccountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|solutionrelative:bank\\bankaccountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day6\\bank\\bank\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|solutionrelative:bank\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day6\\bank\\bank\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|solutionrelative:bank\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day6\\bank\\bank\\normalaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|solutionrelative:bank\\normalaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day6\\bank\\bank\\nriaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4AFAB2-BA80-4F3C-82D1-ED3553A0F39D}|Bank\\Bank.csproj|solutionrelative:bank\\nriaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountBase.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\BankAccountBase.cs",
+              "RelativeDocumentMoniker": "Bank\\BankAccountBase.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\BankAccountBase.cs",
+              "RelativeToolTip": "Bank\\BankAccountBase.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:41:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\Salary.cs",
+              "RelativeDocumentMoniker": "Bank\\Salary.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\Salary.cs",
+              "RelativeToolTip": "Bank\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:47:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NRIAccount.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\NRIAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\NRIAccount.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\NRIAccount.cs",
+              "RelativeToolTip": "Bank\\NRIAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:47:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NormalAccount.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\NormalAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\NormalAccount.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\NormalAccount.cs",
+              "RelativeToolTip": "Bank\\NormalAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:46:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\IBankAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\IBankAccount.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\IBankAccount.cs",
+              "RelativeToolTip": "Bank\\IBankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:36:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day6\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwFwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:18:13.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

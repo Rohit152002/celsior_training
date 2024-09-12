@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\votingeligible\\votingeligible\\validatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|solutionrelative:votingeligible\\validatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\votingeligible\\votingeligible\\invaliddateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|solutionrelative:votingeligible\\invaliddateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\votingeligible\\votingeligible\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|solutionrelative:votingeligible\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\votingeligible\\votingeligible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|solutionrelative:votingeligible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\votingeligible\\votingeligible\\ivalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AC254E-0A09-4304-BAB8-BB24314F6E35}|VotingEligible\\VotingEligible.csproj|solutionrelative:votingeligible\\ivalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidDateException.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\InvalidDateException.cs",
+              "RelativeDocumentMoniker": "VotingEligible\\InvalidDateException.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\InvalidDateException.cs",
+              "RelativeToolTip": "VotingEligible\\InvalidDateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:14:10.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\ValidateCustomer.cs",
+              "RelativeDocumentMoniker": "VotingEligible\\ValidateCustomer.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\ValidateCustomer.cs",
+              "RelativeToolTip": "VotingEligible\\ValidateCustomer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:03:01.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IValidation.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\IValidation.cs",
+              "RelativeDocumentMoniker": "VotingEligible\\IValidation.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\IValidation.cs",
+              "RelativeToolTip": "VotingEligible\\IValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:01:31.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\Customer.cs",
+              "RelativeDocumentMoniker": "VotingEligible\\Customer.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\Customer.cs",
+              "RelativeToolTip": "VotingEligible\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:55:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\Program.cs",
+              "RelativeDocumentMoniker": "VotingEligible\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\VotingEligible\\VotingEligible\\Program.cs",
+              "RelativeToolTip": "VotingEligible\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:54:57.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

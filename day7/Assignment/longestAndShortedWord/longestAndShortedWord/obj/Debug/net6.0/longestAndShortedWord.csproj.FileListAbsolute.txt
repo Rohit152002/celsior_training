@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\bin\Debug\net6.0\longestAndShortedWord.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\bin\Debug\net6.0\longestAndShortedWord.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\bin\Debug\net6.0\longestAndShortedWord.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\bin\Debug\net6.0\longestAndShortedWord.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\bin\Debug\net6.0\longestAndShortedWord.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\refint\longestAndShortedWord.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\longestAndShortedWord.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\longestAndShortedWord\longestAndShortedWord\obj\Debug\net6.0\ref\longestAndShortedWord.dll

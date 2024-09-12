@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\assignment\\cardvalidation\\cardvalidation\\cardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|solutionrelative:cardvalidation\\cardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\assignment\\cardvalidation\\cardvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|solutionrelative:cardvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\assignment\\cardvalidation\\cardvalidation\\invalidcardnumberexecption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|solutionrelative:cardvalidation\\invalidcardnumberexecption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day7\\assignment\\cardvalidation\\cardvalidation\\icardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B1684E-8BAC-4B3D-9F81-06DB09AF5BD7}|CardValidation\\CardValidation.csproj|solutionrelative:cardvalidation\\icardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidCardNumberExecption.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\InvalidCardNumberExecption.cs",
+              "RelativeDocumentMoniker": "CardValidation\\InvalidCardNumberExecption.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\InvalidCardNumberExecption.cs",
+              "RelativeToolTip": "CardValidation\\InvalidCardNumberExecption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:05:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\CardValidator.cs",
+              "RelativeDocumentMoniker": "CardValidation\\CardValidator.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\CardValidator.cs",
+              "RelativeToolTip": "CardValidation\\CardValidator.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:37:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\ICardValidator.cs",
+              "RelativeDocumentMoniker": "CardValidation\\ICardValidator.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\ICardValidator.cs",
+              "RelativeToolTip": "CardValidation\\ICardValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:36:46.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\Program.cs",
+              "RelativeDocumentMoniker": "CardValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day7\\Assignment\\CardValidation\\CardValidation\\Program.cs",
+              "RelativeToolTip": "CardValidation\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:31:09.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

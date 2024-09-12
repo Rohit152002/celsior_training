@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bank
+{
+    internal class Salary : BankAccountBase 
+    {
+        public Salary(double initialBalance) : base(initialBalance, 0, 0) { }
+    }
+}

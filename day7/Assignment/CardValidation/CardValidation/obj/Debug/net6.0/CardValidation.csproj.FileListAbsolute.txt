@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\bin\Debug\net6.0\CardValidation.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\bin\Debug\net6.0\CardValidation.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\bin\Debug\net6.0\CardValidation.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\bin\Debug\net6.0\CardValidation.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\bin\Debug\net6.0\CardValidation.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\refint\CardValidation.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\CardValidation.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\CardValidation\CardValidation\obj\Debug\net6.0\ref\CardValidation.dll

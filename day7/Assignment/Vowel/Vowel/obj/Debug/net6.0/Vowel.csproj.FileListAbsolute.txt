@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\bin\Debug\net6.0\Vowel.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\bin\Debug\net6.0\Vowel.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\bin\Debug\net6.0\Vowel.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\bin\Debug\net6.0\Vowel.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\bin\Debug\net6.0\Vowel.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\refint\Vowel.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\Vowel.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\Assignment\Vowel\Vowel\obj\Debug\net6.0\ref\Vowel.dll

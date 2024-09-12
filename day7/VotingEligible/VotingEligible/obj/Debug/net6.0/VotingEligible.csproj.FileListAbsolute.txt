@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\bin\Debug\net6.0\VotingEligible.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\bin\Debug\net6.0\VotingEligible.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\bin\Debug\net6.0\VotingEligible.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\bin\Debug\net6.0\VotingEligible.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\bin\Debug\net6.0\VotingEligible.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\refint\VotingEligible.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\VotingEligible.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day7\VotingEligible\VotingEligible\obj\Debug\net6.0\ref\VotingEligible.dll
