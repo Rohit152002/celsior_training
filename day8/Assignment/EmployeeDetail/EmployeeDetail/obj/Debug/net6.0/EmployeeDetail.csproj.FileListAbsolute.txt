@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\bin\Debug\net6.0\EmployeeDetail.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\bin\Debug\net6.0\EmployeeDetail.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\bin\Debug\net6.0\EmployeeDetail.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\bin\Debug\net6.0\EmployeeDetail.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\bin\Debug\net6.0\EmployeeDetail.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\refint\EmployeeDetail.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\EmployeeDetail.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day8\Assignment\EmployeeDetail\EmployeeDetail\obj\Debug\net6.0\ref\EmployeeDetail.dll
