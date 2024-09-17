@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\bin\Debug\net6.0\UnderstandingDelegates.exe
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\bin\Debug\net6.0\UnderstandingDelegates.deps.json
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\bin\Debug\net6.0\UnderstandingDelegates.runtimeconfig.json
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\bin\Debug\net6.0\UnderstandingDelegates.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\bin\Debug\net6.0\UnderstandingDelegates.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.AssemblyInfo.cs
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.sourcelink.json
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\refint\UnderstandingDelegates.dll
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.pdb
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\UnderstandingDelegates.genruntimeconfig.cache
+C:\Users\rohit.laishram\Documents\celsior_training\day9\UnderstandingDelegates\UnderstandingDelegates\obj\Debug\net6.0\ref\UnderstandingDelegates.dll

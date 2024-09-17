@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\incorrectlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\incorrectlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncorrectLogin.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IncorrectLogin.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\IncorrectLogin.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IncorrectLogin.cs",
+              "RelativeToolTip": "ClinicApplication\\IncorrectLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:49:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\PatientService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\PatientService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\PatientService.cs",
+              "RelativeToolTip": "ClinicApplication\\PatientService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:35:17.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\DoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\DoctorService.cs",
+              "RelativeToolTip": "ClinicApplication\\DoctorService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAzwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:21:32.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IDoctorService.cs",
+              "RelativeToolTip": "ClinicApplication\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:05:33.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClinicService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\ClinicService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\ClinicService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\ClinicService.cs",
+              "RelativeToolTip": "ClinicApplication\\ClinicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:53:00.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Appointment.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Appointment.cs",
+              "RelativeToolTip": "ClinicApplication\\Appointment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:52:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IPatientService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IPatientService.cs",
+              "RelativeToolTip": "ClinicApplication\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:46:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Doctor.cs",
+              "RelativeToolTip": "ClinicApplication\\Doctor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:27:37.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Patient.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Patient.cs",
+              "RelativeToolTip": "ClinicApplication\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:22:17.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Program.cs",
+              "RelativeToolTip": "ClinicApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:10:37.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
