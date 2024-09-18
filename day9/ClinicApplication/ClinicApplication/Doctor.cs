@@ -19,9 +19,11 @@ namespace ClinicApplication
 
         public double Phone { get; set; }
 
+        static int i=0;
         public Doctor()
         {
-            
+            Id = 100 + i;
+            i++;
         }
 
         public Doctor(string name, string spectialist, DateTime dateOfBirth, string Gender, string email, string password, double phone)
@@ -37,7 +39,7 @@ namespace ClinicApplication
 
         public override string ToString()
         {
-            return $"Doctor Name: {Name}, Specialist: {Specialist}, Date of Birth: {DateOfBirth.ToShortDateString()}, Gender: {Gender}, Email: {Email}, Phone: {Phone}";
+            return $"Doctor Id: {Id}\nDoctor Name: {Name},\nSpecialist: {Specialist},\nDate of Birth: {DateOfBirth.ToString("dd/MM/yyyy")},\nGender: {Gender},\nEmail: {Email},\nPhone: {Phone}";
         }
     }
 }

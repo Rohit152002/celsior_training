@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClinicApplication
 {
-    internal class Appointment
+    internal class Appointment:ClinicData
     {
         public int Id { get; set; }              
         public int PatientId { get; set; }         
@@ -20,19 +20,22 @@ namespace ClinicApplication
             Id = 100 + i;
             i++;
         }
-        public Appointment(int id, int patientId, int doctorId,  TimeOnly appointmentTime, )
+        public Appointment(int id, int patientId, int doctorId,  TimeOnly appointmentTime)
         {
             Id = id;
             PatientId = patientId;
             DoctorId = doctorId;
             AppointmentDate = DateTime.Now;
-            AppointmentTime=appointmentTime;
+            AppointmentTime=appointmentTime;    
         }
 
         
         public override string ToString()
         {
-            return $"Appointment ID: {Id}, Patient ID: {PatientId}, Doctor ID: {DoctorId}, Date: {AppointmentDate}";
+            var patient = Patients.FirstOrDefault(p => p.Id == PatientId);
+            var doctor = Doctors.FirstOrDefault(d => d.Id == DoctorId);
+
+            return $"Appointment ID: {Id},\nPatient Name: {patient.Name},\nDoctor Name: {doctor.Name},\nDate: {AppointmentDate.ToString("dd/MM/yyyy")},\n{AppointmentTime.ToString("hh:mm tt")} ";
         }
     }
 }

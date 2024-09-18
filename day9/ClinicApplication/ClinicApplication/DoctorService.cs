@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClinicApplication
 {
-    internal class DoctorService : ClinicService, IDoctorService
+    internal class DoctorService : ClinicData, IDoctorService
     {
         public Doctor DoctorLogin(string email, string password)
         {
@@ -18,7 +18,7 @@ namespace ClinicApplication
             return result;
         }
 
-        public Doctor DoctorRegister(string name,string gender, string specialist, DateTime dateOfBirth, string email, string password, double phone)
+        public Doctor DoctorRegister()
         {
             Doctor Doctor = new Doctor();
             bool registrationComplete = false;
@@ -40,7 +40,17 @@ namespace ClinicApplication
 
 
                     Console.Write("Enter your Date of Birth (DD/MM/YYYY): ");
-                    Doctor.DateOfBirth = Convert.ToDateTime(Console.ReadLine());
+                    string input = Console.ReadLine();
+
+                    try
+                    {
+                        // Parse the input date with the specified format
+                        Doctor.DateOfBirth = DateTime.ParseExact(input, "dd/MM/yyyy", System.Globalization.CultureInfo.InvariantCulture);
+                    }
+                    catch (FormatException)
+                    {
+                        Console.WriteLine("Invalid date format. Please use DD/MM/YYYY.");
+                    }
 
 
 
@@ -52,7 +62,11 @@ namespace ClinicApplication
                     }
 
                     Console.Write("Enter your Specialist: ");
-                    Doctor.Specialist = Convert.ToDouble(Console.ReadLine());
+                    Doctor.Specialist = Console.ReadLine();
+                    if(!Specialist.Contains(Doctor.Specialist))
+                    {
+                        Specialist.Add(Doctor.Specialist);
+                    }
 
                     Console.Write("Enter your Phone number: ");
                     Doctor.Phone = Convert.ToDouble(Console.ReadLine());
@@ -60,19 +74,18 @@ namespace ClinicApplication
 
                     Console.Write("Enter your Email: ");
                     Doctor.Email = Console.ReadLine();
-                    if (string.IsNullOrWhiteSpace(Datient.Email) || !patient.Email.Contains("@"))
+                    if (string.IsNullOrWhiteSpace(Doctor.Email) || !Doctor.Email.Contains("@"))
                     {
                         throw new FormatException("Email is not valid.");
                     }
 
-
                     Console.Write("Enter your Password: ");
-                    patient.Password = Console.ReadLine();
-                    if (string.IsNullOrWhiteSpace(patient.Password))
+                    Doctor.Password = Console.ReadLine();
+                    if (string.IsNullOrWhiteSpace(Doctor.Password))
                     {
                         throw new FormatException("Password cannot be empty.");
                     }
-
+                    Doctors.Add(Doctor);
                     Console.WriteLine("Registration Successful");
                     registrationComplete = true;
                 }
@@ -82,17 +95,48 @@ namespace ClinicApplication
                     Console.WriteLine("Please re-enter your details.");
                 }
             }
-            return patient;
+            return Doctor;
         }
 
         public void ViewAllAppointMent(int id)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("List of Appointment");
+            var doctorAppoinments = Appointments.Where(a => a.DoctorId == id).ToList();
+
+            if (doctorAppoinments.Any())
+            {
+                foreach (var appointment in doctorAppoinments)
+                {
+                    Console.WriteLine(appointment);
+                    Console.ForegroundColor= ConsoleColor.DarkYellow;
+                    Console.WriteLine("==============");
+                    Console.ResetColor();
+                }
+            }
+            else
+            {
+                Console.WriteLine("No appointments found");
+            }
         }
 
         public void ViewAllPatient()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("============================");
+            Console.WriteLine("List of Patient : ");
+            //Console.WriteLine(Patients);
+            if (Patients.Count < 0 || Patients == null)
+            {
+                Console.WriteLine("No Paitent Available");
+                throw new NullReferenceException("No Paitent Available");
+            }
+            else
+            {
+                foreach (var patient in Patients)
+                {
+                    Console.WriteLine(patient);
+                }
+
+            }
         }
     }
 }

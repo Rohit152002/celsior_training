@@ -11,7 +11,7 @@ namespace ClinicApplication
         public Patient PatientLogin(string email, string password);
         public Patient PatientRegister();
         public void SeeAllDoctorList();
-        public void BookAppointMent();
+        public void BookAppointMent(int PatientId);
         public void ViewAppointMent(int appoinmentId);
     }
 }

@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ClinicApplication
 {
-    internal class PatientService : ClinicService, IPatientService
+    internal class PatientService : ClinicData, IPatientService
     {
-        public void BookAppointMent()
+        public void BookAppointMent(int patientId)
         {
             Appointment appointment = new Appointment();
             bool bookingComplete = false;
@@ -20,15 +21,74 @@ namespace ClinicApplication
                     Console.WriteLine("=======================");
                     Console.WriteLine("Appointment Booking Process");
 
-                
+
 
                     // Patient ID input
-                    Console.Write("Enter Patient ID: ");
-                    appointment.PatientId = Convert.ToInt32(Console.ReadLine());
+
+                    appointment.PatientId = patientId;
+
+                    Console.Write("Enter Appointment Date (DD/MM/YYYY): ");
+                    string input = Console.ReadLine();
+
+                    try
+                    {
+                        // Parse the input date with the specified format
+                        appointment.AppointmentDate = DateTime.ParseExact(input, "dd/MM/yyyy", System.Globalization.CultureInfo.InvariantCulture);
+
+                        // Check if the date is today or in the future
+                        if (appointment.AppointmentDate.Date < DateTime.Today)
+                        {
+                            Console.WriteLine("Appointment date cannot be in the past. Please enter a date today or in the future.");
+                        }
+                    }
+                    catch (FormatException)
+                    {
+                       throw new FormatException("Invalid date format. Please use DD/MM/YYYY.");
+                    }
+
 
                     // Doctor ID input
-                    Console.Write("Enter Doctor ID: ");
-                    appointment.DoctorId = Convert.ToInt32(Console.ReadLine());
+                    ViewAllSpecialist();
+
+                    int specialListIndex= Convert.ToInt32(Console.ReadLine());
+                    string specialList = Specialist[specialListIndex-1];
+
+                    var specialists = Doctors
+                                            .Select(d => d.Specialist)
+                                            .Distinct()
+                                            .OrderBy(s => s)
+                                            .ToList();
+
+                    if (specialListIndex > 0 && specialListIndex <= specialists.Count)
+                    {
+                        string selectedSpecialty = specialists[specialListIndex - 1];
+                        Console.WriteLine($"Selected Specialty: {selectedSpecialty}");
+
+                
+
+                        // Get an available doctor
+                        Doctor availableDoctor = GetAvailableDoctor(selectedSpecialty,  DateTime.Now, TimeOnly.FromDateTime(DateTime.Now) );
+
+                        if (availableDoctor != null)
+                        {
+                            Console.WriteLine($"Available Doctor: ID: {availableDoctor.Id}, Name: {availableDoctor.Name}, Email: {availableDoctor.Email}, Phone: {availableDoctor.Phone}");
+
+                            // Create a new appointment and assign the available doctor
+                            appointment.DoctorId = availableDoctor.Id;
+                            Console.WriteLine($"Appointment created with Doctor ID: {appointment.DoctorId}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("No available doctors for the selected specialty at the specified time.");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid selection.");
+                    }
+
+
+
 
                     var availableSlots = GetAvailableTimeSlots(appointment.AppointmentDate, appointment.DoctorId);
                     if (!availableSlots.Any())
@@ -47,11 +107,13 @@ namespace ClinicApplication
                     if (slotChoice > 0 && slotChoice <= availableSlots.Count)
                     {
                         appointment.AppointmentTime = TimeOnly.Parse(availableSlots[slotChoice - 1]);
+                        Console.WriteLine("Appointment booked successfully.");
+                        Appointments.Add(appointment);
+                        bookingComplete = true;
                     }
                     else
                     {
-                        Console.WriteLine("Appointment booked successfully.");
-                        bookingComplete = true;
+                        Console.WriteLine("Invalid choice");
                     }
 
                 }
@@ -65,9 +127,32 @@ namespace ClinicApplication
 
         }
 
+        public Doctor GetAvailableDoctor(string specialty, DateTime date, TimeOnly time)
+        {
+            // Get doctors by specialty
+            var doctorsBySpecialty = Doctors
+                .Where(d => d.Specialist.Equals(specialty, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            // Get IDs of doctors with appointments at the given date and time
+            var unavailableDoctorIds = Appointments
+                .Where(a => a.AppointmentDate.Date == date.Date && a.AppointmentTime == time)
+                .Select(a => a.DoctorId)
+                .Distinct()
+                .ToHashSet();
+
+            // Find the first available doctor
+            var availableDoctor = doctorsBySpecialty
+                .FirstOrDefault(d => !unavailableDoctorIds.Contains(d.Id));
+
+            return availableDoctor;
+        }
+
+
         public Patient PatientLogin(string email, string password)
         {
             Patient result = Patients.FirstOrDefault(p=>p.Email==email && p.Password==password);
+            Console.WriteLine(result);
             if (result == null )
             {
                 throw new IncorrectLogin("Incorrect Email or Password");
@@ -96,9 +181,19 @@ namespace ClinicApplication
                         throw new FormatException("Name cannot be empty.");
                     }
 
-
                     Console.Write("Enter your Date of Birth (DD/MM/YYYY): ");
-                    patient.DateOfBirth = Convert.ToDateTime(Console.ReadLine());
+                    string input = Console.ReadLine();
+
+                    try
+                    {
+                        // Parse the input date with the specified format
+                        patient.DateOfBirth = DateTime.ParseExact(input, "dd/MM/yyyy", System.Globalization.CultureInfo.InvariantCulture);
+                    }
+                    catch (FormatException)
+                    {
+                        Console.WriteLine("Invalid date format. Please use DD/MM/YYYY.");
+                    }
+
 
 
 
@@ -128,7 +223,7 @@ namespace ClinicApplication
                     {
                         throw new FormatException("Password cannot be empty.");
                     }
-
+                    Patients.Add(patient);
                     Console.WriteLine("Registration Successful");
                     registrationComplete = true;
                 }
@@ -145,12 +240,17 @@ namespace ClinicApplication
         {
             Console.WriteLine("============================");
             Console.WriteLine("List of doctor : ");
+   
             if (Doctors.Count < 0)
             {
+                Console.WriteLine("There is no doctor ");
                 throw new NullReferenceException("There is no Doctor available");
             }
             foreach (var doctor in Doctors)
             {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.WriteLine("==============");
+                Console.ResetColor();
                 Console.WriteLine(doctor);
             }
         }
@@ -192,8 +292,16 @@ namespace ClinicApplication
             TimeOnly startSlot = lastAppointmentTime == default ? startTime : lastAppointmentTime.Add(new TimeSpan(0, 30, 0));
 
             var timeSlots = new List<string>();
+            TimeOnly currentTime = TimeOnly.FromDateTime(DateTime.Now);
+
+           
+            bool isToday = date.Date == DateTime.Today;
             for (TimeOnly time = startSlot; time <= endTime; time = time.Add(new TimeSpan(0, 30, 0))) 
             {
+                if (isToday && time <= currentTime)
+                {
+                    continue;
+                }
                 if (!Appointments.Any(a =>
                     a.DoctorId == doctorId &&
                     a.AppointmentDate == date &&
@@ -204,6 +312,17 @@ namespace ClinicApplication
             }
 
             return timeSlots;
+        }
+
+        private void ViewAllSpecialist()
+        {
+            int i = 1;
+            Console.WriteLine("Select one Specialist: ");
+            foreach(var item in Specialist)
+            {
+                Console.WriteLine($"{i}. {item}");
+                i++;
+            }
         }
     }
 }
