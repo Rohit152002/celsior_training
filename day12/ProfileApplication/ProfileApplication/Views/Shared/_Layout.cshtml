@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProfileApplication</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProfileApplication.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="background">
+        <span class="particle particle1">
+            <img src="images/git.png" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+        </span>
+        <span class="particle particle2">
+            <img src="https://th.bing.com/th/id/OIP.8lG71Gr7LODSWlZITL-NfwHaHa?w=178&h=180&c=7&r=0&o=5&pid=1.7" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+
+        </span>
+        <span class="particle particle3">
+            <img src="https://th.bing.com/th?id=OSK.TaUHj4RydL4bl0Y_lEmaBZVHPkhEXb7x1l2X4CedGiM&w=46&h=46&c=11&rs=1&qlt=80&o=6&cb=13&dpr=2&pid=SANGAM" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+
+        </span>
+        <span class="particle particle4">
+            <img src="https://th.bing.com/th/id/OIP.EnCOMZCcNzxaNHRk1IxdYAHaHa?w=163&h=180&c=7&r=0&o=5&pid=1.7" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+
+        </span>
+        <span class="particle particle5">
+            <img src="https://th.bing.com/th/id/OIP.2jOYMim7RdeyGWJXu4dU2wHaHa?w=184&h=185&c=7&r=0&o=5&pid=1.7" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+
+        </span>
+        <span class="particle particle6">
+            <img src="https://th.bing.com/th/id/OIP.Gda-cQiz-rwrYeJTPs-KMAHaHa?w=200&h=201&c=7&r=0&o=5&pid=1.7" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+
+        </span>
+        <span class="particle particle7">
+            <img src="https://th.bing.com/th/id/OIP.NcoWxTfDKNryzaO2QiYrOQHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7" width="100px" height="100px" style="border-radius: 50%; overflow:hidden" alt="Alternate Text" />
+
+        </span>
+      
+        
+    </div>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Portfolio</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">About Me</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="">
+        <main role="main" class="">
+            @RenderBody()
+        </main>
+    </div>
+
+     @* <footer class="border-top footer text-muted">
+         <div class="container">
+             &copy; 2024 - ProfileApplication - <a asp-area="" asp-controller="Home" asp-action="Privacy">About Me</a>
+         </div>
+     </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
