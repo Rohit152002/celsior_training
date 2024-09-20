@@ -1,62 +1,73 @@
 html {
-    
-  font-size: 14px;
+
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
     margin: 0;
+    background-color: #F5EFFF;
 }
 
-.height{
+.height {
 
-    backdrop-filter: blur(5px);
-    height:500px;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    
+    backdrop-filter: blur(2px);
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
+
+
 
 .background {
-    position: absolute; /* Fixes the background */
+    position: absolute;
+    /* Fixes the background */
     top: 0px;
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: #F5EFFF; /* Background color */
-    overflow: hidden; /* Hide overflow */
-    z-index: -1; /* Send it to the back */
+    /* background: #F5EFFF; Background color */
+    overflow: hidden;
+    /* Hide overflow */
+    z-index: -1;
+    /* Send it to the back */
 }
 
-    .background .particle {
-        width: 20vmin; /* Particle size */
-        height: 20vmin; /* Particle size */
-        border-radius: 100%; /* Full circle */
-        backface-visibility: hidden;
-        display:flex;
-        justify-content:center;
-        align-items:center;
-        position: absolute;
-        animation-name: move;
-        animation-duration: 9s; /* Base animation duration */
-        animation-timing-function: linear;
-        animation-iteration-count: infinite;
-    }
-
-.border{
-    border-radius:50%;
+.background .particle {
+    width: 20vmin;
+    /* Particle size */
+    height: 20vmin;
+    /* Particle size */
+    border-radius: 100%;
+    /* Full circle */
+    backface-visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    animation-name: move;
+    animation-duration: 9s;
+    /* Base animation duration */
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
+
+.border {
+    border-radius: 50%;
+}
+
 /* Particle Definitions */
 .particle1 {
     color: orange;
@@ -65,8 +76,9 @@ body {
     animation-duration: 10.6s;
     animation-delay: -2.5s;
     transform-origin: 2vw 10vh;
-/*    background-color:currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color:currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle2 {
@@ -76,8 +88,9 @@ body {
     animation-duration: 9.4s;
     animation-delay: -1.3s;
     transform-origin: -1vw 3vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle3 {
@@ -87,8 +100,9 @@ body {
     animation-duration: 8.2s;
     animation-delay: -0.8s;
     transform-origin: 3vw -1vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle4 {
@@ -98,8 +112,9 @@ body {
     animation-duration: 7.1s;
     animation-delay: -1.0s;
     transform-origin: -2vw 2vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle5 {
@@ -109,8 +124,9 @@ body {
     animation-duration: 9.0s;
     animation-delay: -3.0s;
     transform-origin: 1vw 1vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle6 {
@@ -120,8 +136,9 @@ body {
     animation-duration: 11.5s;
     animation-delay: -1.5s;
     transform-origin: 2vw -2vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle7 {
@@ -131,8 +148,9 @@ body {
     animation-duration: 8.5s;
     animation-delay: -4.0s;
     transform-origin: 0vw 0vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle8 {
@@ -142,8 +160,9 @@ body {
     animation-duration: 6.8s;
     animation-delay: -2.0s;
     transform-origin: -3vw 3vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle9 {
@@ -153,19 +172,21 @@ body {
     animation-duration: 10.0s;
     animation-delay: -1.2s;
     transform-origin: -1vw 2vh;
-/*    background-color: currentColor;*/
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*    background-color: currentColor;*/
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 .particle10 {
     color: #8A2BE2;
     top: 55%;
     left: 25%;
-/*    background-color: currentColor;*/
+    /*    background-color: currentColor;*/
     animation-duration: 9.8s;
     animation-delay: -2.8s;
     transform-origin: 2vw 1vh;
-    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/ /* Shadow on all sides */
+    /*box-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;*/
+    /* Shadow on all sides */
 }
 
 @keyframes move {
@@ -191,10 +212,9 @@ body {
 }
 
 
-.icon{
-    height:100px;
-    object-fit:contain;
-    border:1px solid black;
-    border-radius:10px;
+.icon {
+    height: 100px;
+    object-fit: contain;
+    /* border: 1px solid black; */
+    border-radius: 10px;
 }
-

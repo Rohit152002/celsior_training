@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\ProfileApplication\\ProfileApplication\\ProfileApplication.csproj": {}
+    "/Users/rohit/Documents/celsior_training/day12/ProfileApplication/ProfileApplication/ProfileApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\ProfileApplication\\ProfileApplication\\ProfileApplication.csproj": {
+    "/Users/rohit/Documents/celsior_training/day12/ProfileApplication/ProfileApplication/ProfileApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\ProfileApplication\\ProfileApplication\\ProfileApplication.csproj",
+        "projectUniqueName": "/Users/rohit/Documents/celsior_training/day12/ProfileApplication/ProfileApplication/ProfileApplication.csproj",
         "projectName": "ProfileApplication",
-        "projectPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\ProfileApplication\\ProfileApplication\\ProfileApplication.csproj",
-        "packagesPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\ProfileApplication\\ProfileApplication\\obj\\",
+        "projectPath": "/Users/rohit/Documents/celsior_training/day12/ProfileApplication/ProfileApplication/ProfileApplication.csproj",
+        "packagesPath": "/Users/rohit/.nuget/packages/",
+        "outputPath": "/Users/rohit/Documents/celsior_training/day12/ProfileApplication/ProfileApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rohit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -34,11 +34,12 @@ namespace Employee
                 age = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine(" Please enter the employee salary ");
                 salary = Convert.ToDouble(Console.ReadLine());
-            }catch(FormatException e)
+            }
+            catch (FormatException e)
             {
                 Console.WriteLine("Format Error : " + e);
             }
-           
+
         }
         public override string ToString()
         {
@@ -63,5 +64,5 @@ namespace Employee
         }
     }
 
-        
+
 }

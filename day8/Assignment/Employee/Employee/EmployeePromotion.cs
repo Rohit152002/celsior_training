@@ -8,15 +8,15 @@ namespace Employee
 {
     internal class EmployeePromotion
     {
-       List<string> EmployeeNames= new List<string>();
+        List<string> EmployeeNames = new List<string>();
         public EmployeePromotion()
         { }
 
         public void InputEmployeeNameFromConsole()
         {
             Console.WriteLine("Please enter the employee names in the order of their eligibility for\r\npromotion(Please enter blank to stop)\n");
-            string input;
-            while(true)
+            string? input;
+            while (true)
             {
                 try
                 {
@@ -26,22 +26,23 @@ namespace Employee
                         break;
                     }
                     EmployeeNames.Add(input);
-                }catch(ArgumentOutOfRangeException e)
+                }
+                catch (ArgumentOutOfRangeException e)
                 {
                     Console.WriteLine($"Error : {e}");
                 }
-            }  
+            }
         }
 
         public void ListOfEmployeeName()
         {
-            if(EmployeeNames.Count == 0)
+            if (EmployeeNames.Count == 0)
             {
                 Console.WriteLine("Please enter employee name");
                 Environment.Exit(0);
                 return;
             }
-            foreach(string name in EmployeeNames)
+            foreach (string name in EmployeeNames)
             {
                 Console.WriteLine(name);
             }
@@ -49,7 +50,7 @@ namespace Employee
 
         public int FindPromotionPostion(string inputName)
         {
-            int index= EmployeeNames.IndexOf(inputName);
+            int index = EmployeeNames.IndexOf(inputName);
             return index;
         }
 
@@ -62,8 +63,8 @@ namespace Employee
 
         public void Sorting()
         {
-            EmployeeNames.Sort();   
-            foreach(var name in EmployeeNames)
+            EmployeeNames.Sort();
+            foreach (var name in EmployeeNames)
             {
                 Console.WriteLine(name);
             }
