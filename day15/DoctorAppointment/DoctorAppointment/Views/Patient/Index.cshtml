@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="wrapper">
+    <div class="title"><span>Patient Login</span></div>
+    <form asp-action="Index" method="post">
+        <div class="row">
+            <i class="fas fa-user">
+                <img src="images/person.png" height="32px" width="32px" alt="">
+            </i>
+            <input type="text" name="email" placeholder="Email or Phone" required />
+        </div>
+        <div class="row">
+            <i class="fas fa-lock">
+                <img src="images/lock.png" height="32px" width="32px" alt="">
+
+            </i>
+            <input type="password" name="password" placeholder="Password" required />
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @ViewBag.Message
+                </div>
+            }
+        </div>
+        <div class="pass"><a href="#">Forgot password?</a></div>
+        <div class="row button">
+            <input type="submit" value="Login" />
+        </div>
+        <div class="signup-link">Not a member? <a asp-action="Index" asp-controller="Doctor">Signup now</a>
+    </form>
+</div>
