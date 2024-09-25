@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\views\\login\\successfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\views\\login\\successfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\interfaces\\iloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\interfaces\\iloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day14\\understandinglayeredstructure\\understandinglayeredstructure\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B081946B-711E-47E0-91A0-607F764E6E4F}|UnderstandingLayeredStructure\\UnderstandingLayeredStructure.csproj|solutionrelative:understandinglayeredstructure\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Models\\Login.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:29:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Models\\User.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:33:58.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Successfull.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Views\\Login\\Successfull.cshtml",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Views\\Login\\Successfull.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Views\\Login\\Successfull.cshtml",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Views\\Login\\Successfull.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:46:36.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Program.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:00:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Service\\LoginService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Service\\LoginService.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Service\\LoginService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABBwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:56:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:44:11.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIA1wDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:19:13.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:35:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Repository\\LoginRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:40:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILoginServices.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Interfaces\\ILoginServices.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Interfaces\\ILoginServices.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Interfaces\\ILoginServices.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Interfaces\\ILoginServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:35:07.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:20:42.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "UnderstandingLayeredStructure\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingLayeredStructure\\UnderstandingLayeredStructure\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "UnderstandingLayeredStructure\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:41:47.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

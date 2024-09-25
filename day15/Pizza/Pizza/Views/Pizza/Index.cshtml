@@ -1,0 +1,31 @@
+﻿
+@model IEnumerable<PizzaApplication.Models.ViewModel.PizzaImageViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .card{
+            margin: 10px;
+            float: left;
+
+    }
+</style>
+
+<h1>Welcome @ViewBag.username</h1>
+
+@foreach (var item in Model)
+{
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="@item.Images[0]" alt="Card image cap">
+
+        <div class="card-body">
+            <p class="card-text">@item.Description</p>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">@item.Name</li>
+            <li class="list-group-item">Priced at $@item.Price</li>
+        </ul>
+    </div>
+}
+

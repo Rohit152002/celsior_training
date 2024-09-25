@@ -11,16 +11,16 @@
                     <h4 class="mb-0">Add Doctor Information</h4>
                 </div>
                 <div class="card-body">
-                    <form asp-action="Create">
+                    <form asp-action="Create" method="post" enctype="multipart/form-data">
                         <div class="form-group mb-3">
                             <label for="DoctorId" class="form-label">Doctor ID</label>
-                            <input type="text" class="form-control" id="DoctorId" name="DoctorId"
+                            <input type="text" class="form-control" id="DoctorId" name="Id"
                                 placeholder="Enter Doctor ID" required />
                         </div>
 
                         <div class="form-group mb-3">
                             <label for="DoctorName" class="form-label">Doctor Name</label>
-                            <input type="text" class="form-control" id="DoctorName" name="DoctorName"
+                            <input type="text" class="form-control" id="Name" name="Email"
                                 placeholder="Enter Doctor Name" required />
                         </div>
 
@@ -28,6 +28,11 @@
                             <label for="Email" class="form-label">Email</label>
                             <input type="email" class="form-control" id="Email" name="Email" placeholder="Enter Email"
                                 required />
+                        </div>
+                        <div class="form-group mb-3">
+                            <label for="Speciality" class="form-label">Email</label>
+                            <input type="text" class="form-control" id="Email" name="Speciality" placeholder="Enter Speciality"
+                                   required />
                         </div>
 
                         <div class="form-group mb-3">
@@ -38,7 +43,7 @@
 
                         <div class="form-group mb-4">
                             <label for="DoctorImage" class="form-label">Upload Doctor Image</label>
-                            <input type="file" class="form-control" id="DoctorImage" name="DoctorImage" accept="image/*"
+                            <input type="file" class="form-control" id="PostedFiles" name="PostedFiles" multiple
                                 required />
                         </div>
 

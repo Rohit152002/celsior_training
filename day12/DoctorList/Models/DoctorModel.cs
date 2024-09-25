@@ -11,6 +11,7 @@ namespace DoctorList.Models
         public string? Speciality { get; set; }
         public string? Image { get; set; }
 
+        public List<IFormFile> PostedFiles { get; set; }
         public DoctorModel()
         {
 

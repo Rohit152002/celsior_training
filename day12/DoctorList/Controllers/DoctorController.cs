@@ -6,6 +6,13 @@ namespace DoctorList.Controllers
 {
     public class DoctorController : Controller
     {
+        private IWebHostEnvironment Environment;
+
+        public DoctorController(IWebHostEnvironment environment)
+        {
+            Environment = environment;
+        }
+
         static List<DoctorModel> doctors = new List<DoctorModel>{
         new DoctorModel{Id=1, Name="John Doe", Email="john.doe@gmail.com", Phone=8123456789, Speciality="Neurosurgeon", Image="https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1726704000&semt=ais_hybrid"},
 new DoctorModel{Id=2, Name="Jane Smith", Email="jane.smith@gmail.com", Phone=8123456790, Speciality="Cardiologist", Image="https://png.pngtree.com/png-clipart/20230927/original/pngtree-photo-men-doctor-physician-chest-smiling-png-image_13143575.png"},
@@ -28,8 +35,32 @@ new DoctorModel{Id=6, Name="Sophia Miller", Email="sophia.miller@gmail.com", Pho
         [HttpPost]
         public IActionResult Create(DoctorModel doctor)
         {
+            string wwwPath = this.Environment.WebRootPath;
+            string contentPath = this.Environment.ContentRootPath;
+
+            string path = Path.Combine(this.Environment.WebRootPath, "images");
+            if(!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+
+           if(doctor.PostedFiles !=null && doctor.PostedFiles.Any())
+            {
+                foreach(IFormFile postedFile in doctor.PostedFiles)
+                {
+                    string fileName = Path.GetFileName(postedFile.FileName);
+                    string filePath = Path.Combine(path, fileName);
+
+                    using (FileStream stream = new FileStream(filePath,FileMode.Create))
+                    {
+                        postedFile.CopyTo(stream);
+                    }
+                    Console.WriteLine(fileName);
+                    doctor.Image = "images/"+fileName;
+                }
+            }
             doctors.Add(doctor);
-            Console.WriteLine(doctor.Name);
+            Console.WriteLine(doctor.Image);
             return RedirectToAction("Index");
         }
         [HttpGet]

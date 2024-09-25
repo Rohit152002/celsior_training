@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Controllers\\PizzaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Controllers\\PizzaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Services\\PizzaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Services\\PizzaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Repository\\PizzaImageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Repository\\PizzaImageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\CannotAddWithNoImageException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Exceptions\\CannotAddWithNoImageException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\ILogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Models\\ILogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Interfaces\\IPizzaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Interfaces\\IPizzaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\PizzaImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Models\\PizzaImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\NoPizzasException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Exceptions\\NoPizzasException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\NoSuchPizzasException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Exceptions\\NoSuchPizzasException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\Pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Models\\Pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Repository\\PizzaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\Repository\\PizzaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\UnderstandingStructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnderstandingStructure\\UnderstandingStructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\ILogin.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Models\\ILogin.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\ILogin.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Models\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:29:06.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:02:54.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CannotAddWithNoImageException.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\CannotAddWithNoImageException.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Exceptions\\CannotAddWithNoImageException.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\CannotAddWithNoImageException.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Exceptions\\CannotAddWithNoImageException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:56:59.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Repository\\PizzaImageRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Repository\\PizzaImageRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Repository\\PizzaImageRepository.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Repository\\PizzaImageRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:54:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Services\\PizzaService.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Services\\PizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:26:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Interfaces\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Interfaces\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Interfaces\\IPizzaService.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Interfaces\\IPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:24:25.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaImages.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\PizzaImages.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Models\\PizzaImages.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\PizzaImages.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Models\\PizzaImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:18:42.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoPizzasException.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\NoPizzasException.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Exceptions\\NoPizzasException.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\NoPizzasException.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Exceptions\\NoPizzasException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:34:02.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Program.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:27:19.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoSuchPizzasException.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\NoSuchPizzasException.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Exceptions\\NoSuchPizzasException.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Exceptions\\NoSuchPizzasException.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Exceptions\\NoSuchPizzasException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:46:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Models\\Pizza.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:28:16.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:31:19.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Repository\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\Repository\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\Repository\\PizzaRepository.cs",
+              "RelativeToolTip": "UnderstandingStructure\\Repository\\PizzaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:40:03.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnderstandingStructure.csproj",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\UnderstandingStructure.csproj",
+              "RelativeDocumentMoniker": "UnderstandingStructure\\UnderstandingStructure.csproj",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day14\\UnderstandingStructure\\UnderstandingStructure\\UnderstandingStructure.csproj",
+              "RelativeToolTip": "UnderstandingStructure\\UnderstandingStructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T04:30:51.081Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

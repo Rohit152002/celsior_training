@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingLayeredStructure", "UnderstandingLayeredStructure\UnderstandingLayeredStructure.csproj", "{B081946B-711E-47E0-91A0-607F764E6E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B081946B-711E-47E0-91A0-607F764E6E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B081946B-711E-47E0-91A0-607F764E6E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B081946B-711E-47E0-91A0-607F764E6E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B081946B-711E-47E0-91A0-607F764E6E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC9CF9B3-CF5D-4983-8376-3782C322D905}
+	EndGlobalSection
+EndGlobal

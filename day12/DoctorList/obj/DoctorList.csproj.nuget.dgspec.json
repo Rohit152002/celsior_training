@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rohit/Documents/celsior_training/day12/DoctorList/DoctorList.csproj": {}
+    "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\DoctorList\\DoctorList.csproj": {}
   },
   "projects": {
-    "/Users/rohit/Documents/celsior_training/day12/DoctorList/DoctorList.csproj": {
+    "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\DoctorList\\DoctorList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rohit/Documents/celsior_training/day12/DoctorList/DoctorList.csproj",
+        "projectUniqueName": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\DoctorList\\DoctorList.csproj",
         "projectName": "DoctorList",
-        "projectPath": "/Users/rohit/Documents/celsior_training/day12/DoctorList/DoctorList.csproj",
-        "packagesPath": "/Users/rohit/.nuget/packages/",
-        "outputPath": "/Users/rohit/Documents/celsior_training/day12/DoctorList/obj/",
+        "projectPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\DoctorList\\DoctorList.csproj",
+        "packagesPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day12\\DoctorList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rohit/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

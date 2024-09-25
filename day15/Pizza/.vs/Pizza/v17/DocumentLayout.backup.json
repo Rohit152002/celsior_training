@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\models\\viewmodel\\pizzaimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\models\\viewmodel\\pizzaimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\repository\\pizzaimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\repository\\pizzaimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\repository\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\repository\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\models\\pizzaimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\models\\pizzaimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\Pizza.csproj|solutionrelative:pizza\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\pizza\\pizza\\pizzaapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B610AFC4-DCCE-4B4E-80D6-C9B861C06DF2}|Pizza\\PizzaApplication.csproj|solutionrelative:pizza\\pizzaapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "Pizza\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "Pizza\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:27:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Pizza\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Services\\PizzaService.cs",
+              "RelativeToolTip": "Pizza\\Services\\PizzaService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:10:38.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pizza\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pizza\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:17:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Interfaces\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "Pizza\\Interfaces\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Interfaces\\IPizzaService.cs",
+              "RelativeToolTip": "Pizza\\Interfaces\\IPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:09:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "RelativeDocumentMoniker": "Pizza\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "RelativeToolTip": "Pizza\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:08:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Program.cs",
+              "RelativeDocumentMoniker": "Pizza\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Program.cs",
+              "RelativeToolTip": "Pizza\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA2wBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:16:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Views\\Pizza\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pizza\\Views\\Pizza\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Views\\Pizza\\Index.cshtml",
+              "RelativeToolTip": "Pizza\\Views\\Pizza\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T06:30:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Repository\\PizzaImageRepository.cs",
+              "RelativeDocumentMoniker": "Pizza\\Repository\\PizzaImageRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Repository\\PizzaImageRepository.cs",
+              "RelativeToolTip": "Pizza\\Repository\\PizzaImageRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:26:05.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Repository\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "Pizza\\Repository\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Repository\\PizzaRepository.cs",
+              "RelativeToolTip": "Pizza\\Repository\\PizzaRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAywAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:12:48.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Pizza\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Pizza\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:14:11.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\appsettings.json",
+              "RelativeDocumentMoniker": "Pizza\\appsettings.json",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\appsettings.json",
+              "RelativeToolTip": "Pizza\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T06:06:03.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pizza\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pizza\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T06:22:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pizza\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pizza\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T06:22:35.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "Pizza\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\Pizza.cs",
+              "RelativeToolTip": "Pizza\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:07:10.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PizzaImages.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\PizzaImages.cs",
+              "RelativeDocumentMoniker": "Pizza\\Models\\PizzaImages.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\PizzaImages.cs",
+              "RelativeToolTip": "Pizza\\Models\\PizzaImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:08:03.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pizza\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pizza\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:17:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pizza\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pizza\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T06:06:10.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PizzaApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\PizzaApplication.csproj",
+              "RelativeDocumentMoniker": "Pizza\\PizzaApplication.csproj",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\Pizza\\Pizza\\PizzaApplication.csproj",
+              "RelativeToolTip": "Pizza\\PizzaApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T06:09:04.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

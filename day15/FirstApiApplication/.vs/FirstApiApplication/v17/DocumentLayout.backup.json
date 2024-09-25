@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\firstapiapplication\\firstapiapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|solutionrelative:firstapiapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\firstapiapplication\\firstapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|solutionrelative:firstapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\firstapiapplication\\firstapiapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|solutionrelative:firstapiapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\firstapiapplication\\firstapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|solutionrelative:firstapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\firstapiapplication\\firstapiapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC34363-5F96-41ED-A2D9-7740AD1FBECE}|FirstApiApplication\\FirstApiApplication.csproj|solutionrelative:firstapiapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstApiApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\appsettings.json",
+              "RelativeToolTip": "FirstApiApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:09:52.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstApiApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstApiApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:10:58.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApiApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\Program.cs",
+              "RelativeToolTip": "FirstApiApplication\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:55:48.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FirstApiApplication\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\WeatherForecast.cs",
+              "RelativeToolTip": "FirstApiApplication\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:55:44.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FirstApiApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\FirstApiApplication\\FirstApiApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FirstApiApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBBwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:55:36.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
