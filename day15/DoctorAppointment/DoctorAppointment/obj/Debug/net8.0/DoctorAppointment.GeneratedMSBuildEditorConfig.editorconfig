@@ -9,47 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoctorAppointment
 build_property.RootNamespace = DoctorAppointment
-build_property.ProjectDir = /Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/
+build_property.ProjectDir = C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day15\DoctorAppointment\DoctorAppointment\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment
+build_property.MSBuildProjectDirectory = C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day15\DoctorAppointment\DoctorAppointment
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Doctor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0luZGV4LmNzaHRtbA==
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Appointment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Appointment/Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRW1wdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Appointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Patient/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF0aWVudC9JbmRleC5jc2h0bWw=
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Appointment/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Patient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rohit/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-6pt3w2v7qd
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rohit.laishram.PYRAMIDINDIA/Documents/celsior_training/day15/DoctorAppointment/DoctorAppointment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w9f5tmgm9m

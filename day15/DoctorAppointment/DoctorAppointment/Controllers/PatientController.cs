@@ -27,12 +27,12 @@ namespace DoctorAppointment.Controllers
         {
             try
             {
+                var patient = _patientService.SignIn(email, password);
 
-                System.Console.WriteLine("login post called");
-                System.Console.WriteLine("email" + email);
-                System.Console.WriteLine("password" + password);
-                if (_patientService.SignIn(email, password))
+                if (patient!=null)
                 {
+                    TempData["Name"] = patient.Name;
+                    TempData["Id"]=patient.Id;
                     return RedirectToAction("Index", "Doctor");
                 }
                 ViewBag.Message = "Unable to sign in";

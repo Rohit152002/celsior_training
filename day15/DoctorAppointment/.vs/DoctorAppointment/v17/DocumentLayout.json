@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\appointment\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\appointment\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\models\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\appointment\\empty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\appointment\\empty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\exceptions\\appointmentalreadyselected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\exceptions\\appointmentalreadyselected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day15\\doctorappointment\\doctorappointment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B3A884-5276-4CE1-817E-98E46EEFDF25}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Search.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Appointment\\Search.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Search.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Appointment\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:57:39.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:51:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\Patient.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\Patient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:51:24.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\Doctor.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\Doctor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:51:10.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppointmentAlreadySelected.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Exceptions\\AppointmentAlreadySelected.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Exceptions\\AppointmentAlreadySelected.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Exceptions\\AppointmentAlreadySelected.cs",
+              "RelativeToolTip": "DoctorAppointment\\Exceptions\\AppointmentAlreadySelected.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:08:08.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DoctorAppointment\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DoctorAppointment\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-27T05:51:29.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:51:43.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:49:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\AppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\AppointmentViewModel.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\AppointmentViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:46:08.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T09:16:01.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "DoctorAppointment\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAywAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:47:58.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Services\\PatientService.cs",
+              "RelativeToolTip": "DoctorAppointment\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:45:40.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "DoctorAppointment\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:54:55.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:43:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T08:43:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:43:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Empty.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Empty.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Appointment\\Empty.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Empty.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Appointment\\Empty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T08:41:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T08:35:16.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorAppointment\\appsettings.json",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\appsettings.json",
+              "RelativeToolTip": "DoctorAppointment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T07:34:48.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA2wBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T07:25:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwFIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:25:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DoctorAppointment\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:14:33.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Services\\DoctorService.cs",
+              "RelativeToolTip": "DoctorAppointment\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:13:29.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointment\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:12:25.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointment\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:08:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "DoctorAppointment\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:02:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "DoctorAppointment\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:54:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Models\\Appointment.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\Appointment.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:00:49.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:55:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "DoctorAppointment\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:54:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day15\\DoctorAppointment\\DoctorAppointment\\Program.cs",
+              "RelativeToolTip": "DoctorAppointment\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:53:17.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

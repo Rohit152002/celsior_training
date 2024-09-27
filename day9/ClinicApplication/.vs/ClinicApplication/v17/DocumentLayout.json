@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\clinicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\clinicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\clinicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\clinicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C49CE6F-77D1-40E8-838C-0BA57E97C6AD}|ClinicApplication\\ClinicApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day9\\clinicapplication\\clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,10 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -74,12 +70,11 @@
               "RelativeToolTip": "ClinicApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T10:10:37.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T10:10:37.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ClinicData.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\ClinicData.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\ClinicData.cs",
@@ -87,8 +82,7 @@
               "RelativeToolTip": "ClinicApplication\\ClinicData.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T10:53:00.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T10:53:00.2Z"
             },
             {
               "$type": "Document",
@@ -98,20 +92,20 @@
               "RelativeDocumentMoniker": "ClinicApplication\\IPatientService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IPatientService.cs",
               "RelativeToolTip": "ClinicApplication\\IPatientService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T10:46:39.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PatientService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\PatientService.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\PatientService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\PatientService.cs",
               "RelativeToolTip": "ClinicApplication\\PatientService.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T11:35:17.319Z",
               "EditorCaption": ""
@@ -124,40 +118,40 @@
               "RelativeDocumentMoniker": "ClinicApplication\\Doctor.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Doctor.cs",
               "RelativeToolTip": "ClinicApplication\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvywAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T10:27:37.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Patient.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Patient.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Patient.cs",
               "RelativeToolTip": "ClinicApplication\\Patient.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T10:22:17.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Appointment.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Appointment.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\Appointment.cs",
               "RelativeToolTip": "ClinicApplication\\Appointment.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA9wCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T10:52:27.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\IDoctorService.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\IDoctorService.cs",
@@ -165,12 +159,11 @@
               "RelativeToolTip": "ClinicApplication\\IDoctorService.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAiwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T11:05:33.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T11:05:33.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day9\\ClinicApplication\\ClinicApplication\\DoctorService.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\DoctorService.cs",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "ClinicApplication\\DoctorService.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T11:21:32.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T11:21:32.64Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,11 @@
               "RelativeToolTip": "ClinicApplication\\IncorrectLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:49:48.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T16:49:48.154Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

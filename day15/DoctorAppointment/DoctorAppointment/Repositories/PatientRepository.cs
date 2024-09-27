@@ -7,11 +7,11 @@ namespace DoctorAppointment.Repositories
 {
     public class PatientRepository : IRepository<string, Patient>
     {
-        List<Patient> patients = new List<Patient>()
+        static List<Patient> patients = new List<Patient>()
         {
-           new Patient() {Id=1, Name="Rohit", Email="abc123@gmail.com",Password="password",Gender="male",Phone=1927839183},
-           new Patient() {Id=2, Name="Rajesh", Email="xyz456@gmail.com",Password="password",Gender="male",Phone=9876543210},
-           new Patient() {Id=3, Name="Priya", Email="pqr789@gmail.com",Password="password",Gender="female",Phone=8765432190},
+           new Patient() {Id=101, Name="Rohit", Email="rohit@gmail.com",Password="password",Gender="male",Phone=1927839183},
+           new Patient() {Id=201, Name="Rajesh", Email="rajesh@gmail.com",Password="password",Gender="male",Phone=9876543210},
+           new Patient() {Id=301, Name="Priya", Email="priya@gmail.com",Password="password",Gender="female",Phone=8765432190},
         };
 
         public Patient Add(Patient entity)

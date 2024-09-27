@@ -14,9 +14,20 @@ namespace DoctorAppointment.Controllers
             _doctorService = doctorService;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string searchString)
         {
+            Console.WriteLine(searchString);
+            ViewData["CurrentFilter"] = searchString;
             var doctors = _doctorService.GetAllDoctor();
+
+            if(!String.IsNullOrEmpty(searchString))
+            {
+                var searchDoctor = doctors.Where(e=>e.Name.ToLower().Contains(searchString.ToLower()));
+                Console.WriteLine(searchDoctor);
+                return View(searchDoctor);
+            }
+            ViewBag.Name = TempData["Name"];
+            ViewBag.Id=TempData["Id"];
             return View(doctors);
         }
     }

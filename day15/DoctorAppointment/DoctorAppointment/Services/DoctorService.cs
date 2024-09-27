@@ -14,6 +14,12 @@ namespace DoctorAppointment.Services
         {
             var doctors = _doctorRepository.GetAll();
             return doctors;
+        
+        }
+        public Doctor GetDoctorByName(string name)
+        {
+            var doctor = _doctorRepository.Get(name);
+            return doctor;
         }
     }
 }

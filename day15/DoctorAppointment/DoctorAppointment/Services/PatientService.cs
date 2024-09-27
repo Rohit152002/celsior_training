@@ -17,12 +17,24 @@ namespace DoctorAppointment.Services
             return _patientRepository.Add(patient);
         }
 
-        public bool SignIn(string email, string password)
+        public IEnumerable<Patient> AllPatients()
         {
-            var patient = _patientRepository.Get(email);
-            return ComparePassword(patient.Password, password);
+            return _patientRepository.GetAll();
         }
 
+        public Patient SignIn(string email, string password)
+        {
+            var patient = _patientRepository.Get(email);
+            if (ComparePassword(patient.Password, password)){
+                return patient;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        
         bool ComparePassword(string oldPassword, string newPassword)
         {
             return oldPassword == newPassword;

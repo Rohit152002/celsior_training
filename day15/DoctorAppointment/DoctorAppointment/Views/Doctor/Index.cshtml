@@ -2,12 +2,17 @@
 
 <div class="container mt-5">
     <div class="text-center mb-4">
-        <h4 class="fw-bold">Welcome, Rohit Laishram!</h4>
+        <h4 class="fw-bold">Welcome, @ViewBag.Name!</h4>
         <h5>Explore our team of expert doctors and find the right one for you.</h5>
     </div>
-    <a href="/Doctor/Create" class="btn btn-primary" style="margin-bottom:20px;">Create</a>
+@*     <a href="/Doctor/Create" class="btn btn-primary" style="margin-bottom:20px;">Create</a>
+ *@
+ <div class="d-flex  justify-content-between gap-2" style="width:300px">
+    <a class="button bg-primary rounded-3 text-white p-3 text-decoration-none" asp-area="" asp-controller="Appointment" asp-action="Index" asp-route-id="@ViewBag.Id">My Appointments</a>
+       
+ </div>
 
-    <div class="row g-3">
+    <div class="row g-3 mt-lg-5">
         @{
             foreach (var doctor in Model)
             {
@@ -21,10 +26,7 @@
                             <strong>Email:</strong> @doctor.Email <br />
                         </p>
                         <div>
-                            <a asp-action="Edit" class="btn btn-primary" asp-route-id="@doctor.Id">Edit</a>
-                            <form asp-action="Delete" asp-route-id="@doctor.Id" method="post">
-                                <input type="submit" value="Delete" class="btn btn-danger" />
-                            </form>
+                            <span><a class="container button bg-primary text-white p-2 rounded-2 text-decoration-none" asp-action="Create" asp-controller="Appointment" asp-route-patientId="@ViewBag.Id" asp-route-doctorId="@doctor.Id">Appointment</a> </span>
 
                         </div>
                     </div>
@@ -33,3 +35,6 @@
         }
     </div>
 </div>
+
+
+

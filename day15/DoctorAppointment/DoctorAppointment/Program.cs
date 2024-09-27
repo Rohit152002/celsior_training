@@ -11,16 +11,18 @@ builder.Services.AddControllersWithViews();
 #region Repositories
 builder.Services.AddScoped<IRepository<string, Patient>, PatientRepository>();
 builder.Services.AddScoped<IRepository<string, Doctor>, DoctorRepository>();
+builder.Services.AddScoped<IRepository<int,Appointment>,AppointmentRepository>();
+
 #endregion
 
 #region Service Providers
 
 builder.Services.AddScoped<IPatientService, PatientService>();
 builder.Services.AddScoped<IDoctorService, DoctorService>();
+builder.Services.AddScoped<IAppointmentService, AppointmentService>();
 #endregion
 
-#region Authentication
-#endregion
+
 
 var app = builder.Build();
 
@@ -36,7 +38,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseSession();
 app.UseAuthorization();
 
 app.MapControllerRoute(
