@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\bin\Debug\net6.0\AccoutApplication.exe
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\bin\Debug\net6.0\AccoutApplication.deps.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\bin\Debug\net6.0\AccoutApplication.runtimeconfig.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\bin\Debug\net6.0\AccoutApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\bin\Debug\net6.0\AccoutApplication.pdb
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.AssemblyInfo.cs
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.sourcelink.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\refint\AccoutApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.pdb
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\AccoutApplication.genruntimeconfig.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day20\AccoutApplication\AccoutApplication\obj\Debug\net6.0\ref\AccoutApplication.dll

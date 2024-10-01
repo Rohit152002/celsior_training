@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day19\\destructor\\destructor\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|solutionrelative:destructor\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day19\\destructor\\destructor\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|solutionrelative:destructor\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day19\\destructor\\destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|solutionrelative:destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day19\\destructor\\destructor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|solutionrelative:destructor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day19\\destructor\\destructor\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE011B75-AA07-4E31-B6DC-F49BBCFF43DE}|Destructor\\Destructor.csproj|solutionrelative:destructor\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Destructor\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\PaymentMethod.cs",
+              "RelativeToolTip": "Destructor\\PaymentMethod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:27:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Connection.cs",
+              "RelativeDocumentMoniker": "Destructor\\Connection.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Connection.cs",
+              "RelativeToolTip": "Destructor\\Connection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:42:51.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Product.cs",
+              "RelativeDocumentMoniker": "Destructor\\Product.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Product.cs",
+              "RelativeToolTip": "Destructor\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:30:16.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Employee.cs",
+              "RelativeDocumentMoniker": "Destructor\\Employee.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Employee.cs",
+              "RelativeToolTip": "Destructor\\Employee.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:18:32.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Program.cs",
+              "RelativeDocumentMoniker": "Destructor\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day19\\Destructor\\Destructor\\Program.cs",
+              "RelativeToolTip": "Destructor\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:17:16.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

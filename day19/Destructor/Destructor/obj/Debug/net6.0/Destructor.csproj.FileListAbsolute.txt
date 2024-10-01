@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\bin\Debug\net6.0\Destructor.exe
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\bin\Debug\net6.0\Destructor.deps.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\bin\Debug\net6.0\Destructor.runtimeconfig.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\bin\Debug\net6.0\Destructor.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\bin\Debug\net6.0\Destructor.pdb
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfo.cs
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.sourcelink.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\refint\Destructor.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.pdb
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\Destructor.genruntimeconfig.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day19\Destructor\Destructor\obj\Debug\net6.0\ref\Destructor.dll
