@@ -14,6 +14,11 @@ namespace AccoutApplication
         public double InitialBalance { get; set; }
         static int i = 3;
 
+
+        public Account()
+        {
+            Id=i++;
+        }
         protected Account(string accountNumber, string accountHolderName, double initialBalance)
         {
             Id= i;

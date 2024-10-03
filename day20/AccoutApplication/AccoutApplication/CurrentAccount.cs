@@ -9,16 +9,19 @@ namespace AccoutApplication
     internal class CurrentAccount : Operation
     {
         static List<Account> currentAccount = new List<Account>() {
-            new Account() { Id=1,Name="Disha",AccountNumber=923492378423,CurrentBalance=400},
-        new Account() {Id=2,Name="Sudarshan",AccountNumber=982409987243,CurrentBalance=1000} };
+            new Account() { Id=1,AccountHolderName="Disha",AccountNumber="987392234823",InitialBalance=400},
+        new Account() {Id=2,AccountHolderName="Sudarshan",AccountNumber="982409987243",InitialBalance=1000} };
+
+
+        
 
         public override void CreateAccount()
         {
             Account account = new Account();
             Console.Write("Enter your Name :- ");
             string name = Console.ReadLine();
-            account.Name = name;
-            account.CurrentBalance = 0;
+            account.AccountHolderName = name;
+            account.InitialBalance = 0;
             currentAccount.Add(account);
             Console.WriteLine(account);
             Console.WriteLine("Accounts have been created");
@@ -28,7 +31,7 @@ namespace AccoutApplication
             Account account = currentAccount.FirstOrDefault(a => a.Id == id);
             if (account == null) { throw new Exception("No account found"); }
          
-            account.CurrentBalance += money;
+            account.InitialBalance += money;
             Console.WriteLine($"{money} has been credited");
         }
 
@@ -39,7 +42,7 @@ namespace AccoutApplication
             {
                 throw new Exception("No account found");
             }
-            Console.WriteLine($"Available balance : {account.CurrentBalance}");
+            Console.WriteLine($"Available balance : {account.InitialBalance}");
 
         }
 
@@ -50,12 +53,12 @@ namespace AccoutApplication
             {
                 throw new Exception("No account found");
             }
-            if (account.CurrentBalance < money)
+            if (account.InitialBalance < money)
             {
                 throw new Exception("Insufficent amount to be withdraw");
             }
 
-            account.CurrentBalance -= money;
+            account.InitialBalance -= money;
             Console.WriteLine($"{money} has been withdraw");
         }
     }
