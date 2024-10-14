@@ -62,7 +62,7 @@ group by p.ProductName,c.ContactName
 select * from Employees
 
 --14) Print the product name, category and the total sale amount sorted by category, Include all products and all categories
-SELECT p.ProductName,c.CategoryID,sum(od.UnitPrice) total_sale_amount FROM Products p 
+SELECT p.ProductName,c.CategoryID,sum(od.UnitPrice*od.Quantity) total_sale_amount FROM Products p 
 LEFT JOIN Categories c on p.CategoryID=c.CategoryID
 LEFT JOIN [Order Details] od on od.ProductID=p.ProductID
 GROUP BY p.ProductName,c.CategoryID

@@ -1,0 +1,15 @@
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.AssemblyInfoInputs.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.AssemblyInfo.cs
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.sourcelink.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\bin\Debug\net6.0\QuizApplication.exe
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\bin\Debug\net6.0\QuizApplication.deps.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\bin\Debug\net6.0\QuizApplication.runtimeconfig.json
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\bin\Debug\net6.0\QuizApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\bin\Debug\net6.0\QuizApplication.pdb
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\refint\QuizApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.pdb
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\QuizApplication.genruntimeconfig.cache
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day26\QuizApplication\QuizApplication\obj\Debug\net6.0\ref\QuizApplication.dll

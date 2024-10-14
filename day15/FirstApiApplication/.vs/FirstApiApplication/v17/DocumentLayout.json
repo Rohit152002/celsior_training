@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,10 +39,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -54,8 +50,7 @@
               "RelativeToolTip": "FirstApiApplication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T07:09:52.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T07:09:52.073Z"
             },
             {
               "$type": "Document",
@@ -80,8 +75,7 @@
               "RelativeToolTip": "FirstApiApplication\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA4wAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:55:48.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:55:48.347Z"
             },
             {
               "$type": "Document",
@@ -93,8 +87,7 @@
               "RelativeToolTip": "FirstApiApplication\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:55:44.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:55:44.26Z"
             },
             {
               "$type": "Document",
@@ -106,8 +99,11 @@
               "RelativeToolTip": "FirstApiApplication\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIBBwBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:55:36.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:55:36.43Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

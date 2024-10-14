@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\geography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\geography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\questionanswers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\questionanswers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day26\\quizapplication\\quizapplication\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090660C4-D103-47B3-A295-F3DD936EB73B}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\QuizService.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\QuizService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\QuizService.cs*",
+              "RelativeToolTip": "QuizApplication\\QuizService.cs*",
+              "ViewState": "AgIAAI8AAAAAAAAAAIA0wKcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:33:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\IQuizService.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\IQuizService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\IQuizService.cs",
+              "RelativeToolTip": "QuizApplication\\IQuizService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:31:31.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Geography.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Geography.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Geography.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Geography.cs",
+              "RelativeToolTip": "QuizApplication\\Geography.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:23:58.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Technology.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Technology.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Technology.cs",
+              "RelativeToolTip": "QuizApplication\\Technology.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:22:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Movies.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Movies.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Movies.cs",
+              "RelativeToolTip": "QuizApplication\\Movies.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:21:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionAnswers.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\QuestionAnswers.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\QuestionAnswers.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\QuestionAnswers.cs",
+              "RelativeToolTip": "QuizApplication\\QuestionAnswers.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:02:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sports.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Sports.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Sports.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Sports.cs",
+              "RelativeToolTip": "QuizApplication\\Sports.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:57:55.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\User.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\User.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\User.cs",
+              "RelativeToolTip": "QuizApplication\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:53:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Program.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day26\\QuizApplication\\QuizApplication\\Program.cs",
+              "RelativeToolTip": "QuizApplication\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:47:21.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

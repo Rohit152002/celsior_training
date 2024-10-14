@@ -14,7 +14,7 @@ namespace PizzaWebApi.Controllers
         {
             _customerService = customerService;
         }
-        [HttpGet]
+        [HttpGet] //get, post, put , patch ,delete method http method
         public async Task<IActionResult> ViewPizzas()       
        {
             try
