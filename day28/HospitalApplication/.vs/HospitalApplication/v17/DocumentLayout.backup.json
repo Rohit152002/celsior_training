@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\context\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\context\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\migrations\\cliniccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\migrations\\cliniccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\doctorservice.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\doctorservice.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\migrations\\20241015102410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\migrations\\20241015102410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\models\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\models\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\hospitalapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\hospitalapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\DoctorService.cs",
+              "RelativeToolTip": "HospitalApplication\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:16:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "HospitalApplication\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:01:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalApplication\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:58:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Context\\ClinicContext.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Context\\ClinicContext.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Context\\ClinicContext.cs",
+              "RelativeToolTip": "HospitalApplication\\Context\\ClinicContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:12:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\HospitalService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Services\\HospitalService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\HospitalService.cs",
+              "RelativeToolTip": "HospitalApplication\\Services\\HospitalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:30:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Program.cs",
+              "RelativeToolTip": "HospitalApplication\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:48:01.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\PatientService.cs*",
+              "RelativeToolTip": "HospitalApplication\\Services\\PatientService.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:28:17.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "HospitalApplication\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:26:21.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClinicContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Migrations\\ClinicContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Migrations\\ClinicContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Migrations\\ClinicContextModelSnapshot.cs",
+              "RelativeToolTip": "HospitalApplication\\Migrations\\ClinicContextModelSnapshot.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:25:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\DoctorService.cs",
+              "RelativeToolTip": "HospitalApplication\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:15:49.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241015102410_init.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Migrations\\20241015102410_init.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Migrations\\20241015102410_init.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Migrations\\20241015102410_init.cs",
+              "RelativeToolTip": "HospitalApplication\\Migrations\\20241015102410_init.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:24:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HospitalApplication",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\HospitalApplication.csproj",
+              "RelativeDocumentMoniker": "HospitalApplication\\HospitalApplication.csproj",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\HospitalApplication.csproj",
+              "RelativeToolTip": "HospitalApplication\\HospitalApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T09:11:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Specialist.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Specialist.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Models\\Specialist.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Specialist.cs",
+              "RelativeToolTip": "HospitalApplication\\Models\\Specialist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:08:24.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalApplication\\Models\\Patient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:53:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalApplication\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:51:00.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
