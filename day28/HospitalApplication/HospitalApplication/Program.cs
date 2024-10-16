@@ -8,9 +8,8 @@ namespace HospitalApplication
         
         static void Main(string[] args)
         {
-            PatientService patientService = new PatientService();
-            Console.WriteLine();
-            patientService.BookAppointMent();
+      HospitalService service = new HospitalService();
+            service.StartHospitalService();
         }
     }
 }

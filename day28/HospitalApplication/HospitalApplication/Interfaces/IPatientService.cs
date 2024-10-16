@@ -10,5 +10,7 @@ namespace HospitalApplication.Interfaces
     {
         public void BookAppointMent();
         public void ViewAppointMent();
+
+        public void RegisterPatient();
     }
 }

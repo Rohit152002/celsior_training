@@ -9,7 +9,7 @@ namespace HospitalApplication.Interfaces
 {
     internal interface IDoctorService
     {
-        public Doctor DoctorLogin(string email, string password);
-        public Doctor DoctorRegister();
+        public void DoctorLogin(string email, string password);
+        public void DoctorRegister();
     }
 }
