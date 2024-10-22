@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\services\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\services\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1AEC1F5-23F3-43B7-ACDD-D79071BC91B8}|HospitalApplication\\HospitalApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day28\\hospitalapplication\\hospitalapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,78 +116,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IDoctorService.cs",
               "RelativeDocumentMoniker": "HospitalApplication\\Interfaces\\IDoctorService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IDoctorService.cs",
               "RelativeToolTip": "HospitalApplication\\Interfaces\\IDoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T11:01:48.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Program.cs",
               "RelativeDocumentMoniker": "HospitalApplication\\Program.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Program.cs",
               "RelativeToolTip": "HospitalApplication\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T08:48:01.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HospitalService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\HospitalService.cs",
               "RelativeDocumentMoniker": "HospitalApplication\\Services\\HospitalService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\HospitalService.cs",
               "RelativeToolTip": "HospitalApplication\\Services\\HospitalService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA1wBwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T10:30:37.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\DoctorService.cs",
               "RelativeDocumentMoniker": "HospitalApplication\\Services\\DoctorService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\DoctorService.cs",
               "RelativeToolTip": "HospitalApplication\\Services\\DoctorService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwDcAAAC4AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T09:57:29.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "IPatientService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IPatientService.cs",
               "RelativeDocumentMoniker": "HospitalApplication\\Interfaces\\IPatientService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Interfaces\\IPatientService.cs",
               "RelativeToolTip": "HospitalApplication\\Interfaces\\IPatientService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T11:26:21.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PatientService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "HospitalApplication\\Services\\PatientService.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day28\\HospitalApplication\\HospitalApplication\\Services\\PatientService.cs",
               "RelativeToolTip": "HospitalApplication\\Services\\PatientService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAzwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T11:28:17.694Z",
               "EditorCaption": ""

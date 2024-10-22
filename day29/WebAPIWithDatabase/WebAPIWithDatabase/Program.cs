@@ -23,16 +23,21 @@ namespace WebAPIWithDatabase
             #region Repositories
             builder.Services.AddScoped<IRepository<int, Customer>, CustomerRepository>();
             builder.Services.AddScoped<IRepository<int,Product>, ProductRepository>();
+            builder.Services.AddScoped<IRepository<int,Image>,ImagesRepository>();
+            builder.Services.AddScoped<IRepository<string, User>, UserRepository>();
             #endregion
 
             #region Services
             builder.Services.AddScoped<ICustomerBasicServices, CustomerBasicServices>();
             builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IImageService, ImageService>();
+            builder.Services.AddScoped<IUserService, UserService>();
             #endregion
 
             #region OtherServices
             builder.Services.AddAutoMapper(typeof(Customer));
             builder.Services.AddAutoMapper(typeof(Product));
+            builder.Services.AddAutoMapper(typeof(User));
             #endregion
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

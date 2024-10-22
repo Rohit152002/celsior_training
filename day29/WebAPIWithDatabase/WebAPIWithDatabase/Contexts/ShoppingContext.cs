@@ -5,7 +5,11 @@ namespace WebAPIWithDatabase.Contexts
 {
     public class ShoppingContext:DbContext
     {
-        public ShoppingContext(DbContextOptions<ShoppingContext> options) : base(options) { }
+        //public ShoppingContext(DbContextOptions<ShoppingContext> options) : base(options) { }
+
+        public ShoppingContext(DbContextOptions options) : base(options)
+        {
+        }
 
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Product>  Products { get; set; }
@@ -13,6 +17,8 @@ namespace WebAPIWithDatabase.Contexts
         public DbSet<OrderDetail> OrderDetails { get; set; }
         public DbSet<Cart> Carts { get; set; }
         public DbSet<CartItem> CartItems { get; set; }
+        public DbSet<Image> Images { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -37,6 +43,14 @@ namespace WebAPIWithDatabase.Contexts
                 .WithOne(c => c.Cart)
                 .HasForeignKey<Cart>(c => c.CustomerId)
                 .HasConstraintName("FK_Cart_Customer");
+
+            modelBuilder.Entity<Customer>()
+               .HasOne(c => c.User)
+               .WithOne(u => u.Customer)
+               .HasForeignKey<Customer>(c => c.Username)
+               .HasConstraintName("FK_Customer");
+   
+
 
         }
 

@@ -22,11 +22,11 @@ namespace WebAPIWithDatabase.Services
             return addedproduct.Id;
         }
 
-        public async Task<ProductDTO> GetProductById(int productId)
+        public async Task<Product> GetProductById(int productId)
         {
             Product product = await _productRepository.Get(productId);
-            ProductDTO productdto = _mapper.Map<ProductDTO>(product);
-            return productdto;
+            //ProductDTO productdto = _mapper.Map<ProductDTO>(product);
+            return product;
         }
 
         public async Task<ProductDTO> UpdateProduct(int productId, float price)
@@ -45,6 +45,14 @@ namespace WebAPIWithDatabase.Services
             var productDtos = _mapper.Map<IEnumerable<ProductDTO>>(products);
 
             return productDtos;
+        }
+
+        public async Task<bool> AddNewProduct(ProductDTO product)
+        {
+            var myProduct = _mapper.Map<Product>(product);
+            myProduct= await _productRepository.Add(myProduct);
+            return product != null;
+
         }
     }
 }

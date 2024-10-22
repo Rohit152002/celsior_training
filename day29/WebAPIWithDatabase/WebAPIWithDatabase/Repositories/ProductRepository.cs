@@ -8,9 +8,11 @@ namespace WebAPIWithDatabase.Repositories
     public class ProductRepository : IRepository<int, Product>
     {
         private readonly ShoppingContext _context;
-        public ProductRepository(ShoppingContext context)
+        private readonly ILogger<ProductRepository> _logger;
+        public ProductRepository(ShoppingContext context, ILogger<ProductRepository> logger)
         {
             _context = context;
+            _logger = logger;
         }
         public async Task<Product> Add(Product entity)
         {
@@ -22,6 +24,7 @@ namespace WebAPIWithDatabase.Repositories
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex.Message);
                 throw new Exception(ex.Message);
             }
     }

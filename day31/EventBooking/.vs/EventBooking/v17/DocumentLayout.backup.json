@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\services\\eventservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\eventservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\mapper\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\mapper\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\models\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\interface\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interface\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\models\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\context\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\context\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\migrations\\20241021084007_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\migrations\\20241021084007_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day31\\eventbooking\\eventbooking\\eventbooking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B31BEC3-7A46-4760-93CC-C935973C4D29}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\eventbooking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\DTO\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "EventBooking\\Models\\DTO\\BookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:05:40.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:52:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Mapper\\EventProfile.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Mapper\\EventProfile.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Mapper\\EventProfile.cs",
+              "RelativeToolTip": "EventBooking\\Mapper\\EventProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:58:46.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "EventBooking\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:42:34.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Services\\BookingService.cs",
+              "RelativeToolTip": "EventBooking\\Services\\BookingService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:40:26.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventServices.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Services\\EventServices.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Services\\EventServices.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Services\\EventServices.cs",
+              "RelativeToolTip": "EventBooking\\Services\\EventServices.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:40:44.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IBookService.cs",
+              "RelativeToolTip": "EventBooking\\Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:40:46.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Program.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Program.cs",
+              "RelativeToolTip": "EventBooking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:05.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\EventController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:55:29.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Mapper\\BookingProfile.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Mapper\\BookingProfile.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Mapper\\BookingProfile.cs",
+              "RelativeToolTip": "EventBooking\\Mapper\\BookingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:06:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\Booking.cs",
+              "RelativeToolTip": "EventBooking\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:29:14.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "EventBooking\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:09:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Repository\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "EventBooking\\Repository\\EventRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:29:42.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EventBooking\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\WeatherForecast.cs",
+              "RelativeToolTip": "EventBooking\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:59:27.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IUserService.cs",
+              "RelativeToolTip": "EventBooking\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:35:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Services\\UserService.cs",
+              "RelativeToolTip": "EventBooking\\Services\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:55:26.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interface\\IEventService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IEventService.cs",
+              "RelativeToolTip": "EventBooking\\Interface\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:38:56.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\DTO\\EventDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\DTO\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\DTO\\EventDTO.cs",
+              "RelativeToolTip": "EventBooking\\Models\\DTO\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:55:58.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Mapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Mapper\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Mapper\\UserProfile.cs",
+              "RelativeToolTip": "EventBooking\\Mapper\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:23:40.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Context\\EventContext.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Context\\EventContext.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Context\\EventContext.cs",
+              "RelativeToolTip": "EventBooking\\Context\\EventContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:32:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:01:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "EventBooking\\Models\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:08:22.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\Event.cs",
+              "RelativeToolTip": "EventBooking\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:29:37.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Interface\\IRepository.cs",
+              "RelativeToolTip": "EventBooking\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA3wAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:41:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "EventBooking\\appsettings.json",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\appsettings.json",
+              "RelativeToolTip": "EventBooking\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T08:30:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241021084007_init.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Migrations\\20241021084007_init.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Migrations\\20241021084007_init.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Migrations\\20241021084007_init.cs",
+              "RelativeToolTip": "EventBooking\\Migrations\\20241021084007_init.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA2wCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:40:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\Models\\User.cs",
+              "RelativeToolTip": "EventBooking\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:28:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventBooking.csproj",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\EventBooking.csproj",
+              "RelativeDocumentMoniker": "EventBooking\\EventBooking.csproj",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day31\\EventBooking\\EventBooking\\EventBooking.csproj",
+              "RelativeToolTip": "EventBooking\\EventBooking.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T08:28:14.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

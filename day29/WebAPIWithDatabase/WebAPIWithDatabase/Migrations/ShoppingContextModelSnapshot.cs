@@ -36,6 +36,9 @@ namespace WebAPIWithDatabase.Migrations
                     b.Property<int>("CustomerId")
                         .HasColumnType("int");
 
+                    b.Property<bool?>("WishList")
+                        .HasColumnType("bit");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CustomerId")
@@ -97,9 +100,38 @@ namespace WebAPIWithDatabase.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("Id");
 
+                    b.HasIndex("Username")
+                        .IsUnique();
+
                     b.ToTable("Customers");
+                });
+
+            modelBuilder.Entity("WebAPIWithDatabase.Models.Image", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("Images");
                 });
 
             modelBuilder.Entity("WebAPIWithDatabase.Models.Order", b =>
@@ -190,6 +222,27 @@ namespace WebAPIWithDatabase.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("WebAPIWithDatabase.Models.User", b =>
+                {
+                    b.Property<string>("Username")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<byte[]>("HashKey")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<byte[]>("Password")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<int>("Role")
+                        .HasColumnType("int");
+
+                    b.HasKey("Username");
+
+                    b.ToTable("Users");
+                });
+
             modelBuilder.Entity("WebAPIWithDatabase.Models.Cart", b =>
                 {
                     b.HasOne("WebAPIWithDatabase.Models.Customer", "Customer")
@@ -217,6 +270,29 @@ namespace WebAPIWithDatabase.Migrations
                         .IsRequired();
 
                     b.Navigation("Cart");
+
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("WebAPIWithDatabase.Models.Customer", b =>
+                {
+                    b.HasOne("WebAPIWithDatabase.Models.User", "User")
+                        .WithOne("Customer")
+                        .HasForeignKey("WebAPIWithDatabase.Models.Customer", "Username")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired()
+                        .HasConstraintName("FK_Customer");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("WebAPIWithDatabase.Models.Image", b =>
+                {
+                    b.HasOne("WebAPIWithDatabase.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Product");
                 });
@@ -274,6 +350,12 @@ namespace WebAPIWithDatabase.Migrations
             modelBuilder.Entity("WebAPIWithDatabase.Models.Product", b =>
                 {
                     b.Navigation("OrderDetails");
+                });
+
+            modelBuilder.Entity("WebAPIWithDatabase.Models.User", b =>
+                {
+                    b.Navigation("Customer")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

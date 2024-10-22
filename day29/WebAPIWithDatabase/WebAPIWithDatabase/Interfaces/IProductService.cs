@@ -1,4 +1,5 @@
-﻿using WebAPIWithDatabase.Models.DTO;
+﻿using WebAPIWithDatabase.Models;
+using WebAPIWithDatabase.Models.DTO;
 
 namespace WebAPIWithDatabase.Interfaces
 {
@@ -7,6 +8,8 @@ namespace WebAPIWithDatabase.Interfaces
         Task<int>  AddProduct(ProductDTO product);
         Task<ProductDTO> UpdateProduct(int productId, float price);
         Task<IEnumerable<ProductDTO>> ViewAllProducts();
-        Task<ProductDTO> GetProductById(int productId);
+        Task<Product> GetProductById(int productId);
+        public Task<bool> AddNewProduct(ProductDTO product);
+
     }
 }
