@@ -1,0 +1,140 @@
+[
+  {
+    "ContainingType": "LifeInsuranceApplication.Controllers.ClaimController",
+    "Method": "ClaimNewAsync",
+    "RelativePath": "api/Claim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PolicyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClaimTypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "DateOfIncident",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClaimaintName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClaimaintPhone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClaimaintEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SettleForm",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DeathCertificateForm",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "PolicyCertificateForm",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "AddressProof",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "CancelCheck",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Other",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controllers.ClaimController",
+    "Method": "GetClaimAsync",
+    "RelativePath": "api/Claim",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controllers.ClaimTypeController",
+    "Method": "CreateClaimAsync",
+    "RelativePath": "api/ClaimType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "claimTypeDTO",
+        "Type": "LifeInsuranceApplication.Models.DTO.ClaimTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controllers.ClaimTypeController",
+    "Method": "GetAllClaimAsync",
+    "RelativePath": "api/ClaimType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controller.PolicyController",
+    "Method": "CreatePolicyAsync",
+    "RelativePath": "api/Policy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policyDTO",
+        "Type": "LifeInsuranceApplication.Models.DTO.PolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controller.PolicyController",
+    "Method": "GetAllPolicyAsync",
+    "RelativePath": "api/Policy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

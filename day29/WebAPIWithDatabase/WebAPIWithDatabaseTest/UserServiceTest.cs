@@ -42,6 +42,7 @@ namespace WebAPIWithDatabaseTest
                 UserName = username,
                 Password = password,
                 Roles = role
+                
             };
             var userService = new UserService(repository, loggerUserService.Object);
             var addedUser = await userService.Register(user);
@@ -66,6 +67,8 @@ namespace WebAPIWithDatabaseTest
             });
             Assert.IsTrue(addedUser.Username == loggedInUser.Username);
         }
+        
+        
 
 
     }

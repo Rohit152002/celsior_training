@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023113926_nullableclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241023113926_nullableclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023113814_nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241023113814_nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\claimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\claimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\iclaimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\iclaimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023110856_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241023110856_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\repositories\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\repositories\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\context\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\context\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\claimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\claimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\claimtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\claimtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\mapper\\claimtypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\mapper\\claimtypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023092319_claimsTableAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241023092319_claimsTableAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023071619_claimadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241023071619_claimadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\repositories\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\repositories\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day32\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF305135-0B2B-408E-B6DE-796418F2810A}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023050046_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241023050046_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241023113926_nullableclaim.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023113926_nullableclaim.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023113926_nullableclaim.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023113926_nullableclaim.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023113926_nullableclaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:39:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241023113814_nullable.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023113814_nullable.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023113814_nullable.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023113814_nullable.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023113814_nullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:38:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClaimTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:35:02.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaimTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:30:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241023110856_init.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023110856_init.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023110856_init.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023110856_init.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023110856_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:08:57.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:08:22.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:07:00.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:23:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:23:00.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClaimController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:14:17.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Program.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:59:56.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClaimDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:22:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsuranceContext.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Context\\InsuranceContext.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Context\\InsuranceContext.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Context\\InsuranceContext.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Context\\InsuranceContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:03:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Claim.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\Claim.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:18:28.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClaimTypeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:58:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClaimTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:43:15.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241023071619_claimadded.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023071619_claimadded.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023071619_claimadded.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023071619_claimadded.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023071619_claimadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:16:19.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:47:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241023092319_claimsTableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023092319_claimsTableAdded.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023092319_claimsTableAdded.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023092319_claimsTableAdded.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023092319_claimsTableAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:23:19.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:18:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241023050046_init.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023050046_init.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023050046_init.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023050046_init.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023050046_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:00:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\Policy.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Policy.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:50:52.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day32\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:50:47.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

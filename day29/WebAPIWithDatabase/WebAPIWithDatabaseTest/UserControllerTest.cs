@@ -56,10 +56,13 @@ namespace WebAPIWithDatabaseTest
             var responseDTO=await controller.Register(user);
 
             Assert.IsNotNull(responseDTO);
+            Console.WriteLine("fahsdlfj");
+            System.Console.WriteLine("fklsajdf");
             var resultObject = responseDTO.Result as OkObjectResult;
             // Assert
             Assert.IsNotNull(resultObject);
             Assert.AreEqual(200, resultObject.StatusCode);
+            
 
         }
 

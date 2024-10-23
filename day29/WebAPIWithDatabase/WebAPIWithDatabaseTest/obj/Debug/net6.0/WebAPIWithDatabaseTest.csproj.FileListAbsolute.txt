@@ -144,8 +144,6 @@ C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWith
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
-C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\WebAPIWithDatabase.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\bin\Debug\net6.0\WebAPIWithDatabase.pdb
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabaseTest\obj\Debug\net6.0\WebAPIWithDatabaseTest.csproj.AssemblyReference.cache

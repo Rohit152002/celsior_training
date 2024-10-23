@@ -86,7 +86,7 @@ namespace WebAPIWithDatabaseTest
                 BasicImage = image,
                 Description = desc
             };
-            Product addedProduct = await repository.Add(product);
+            await repository.Add(product);
             var products = await repository.GetAll();
             Assert.NotNull(products);
 
