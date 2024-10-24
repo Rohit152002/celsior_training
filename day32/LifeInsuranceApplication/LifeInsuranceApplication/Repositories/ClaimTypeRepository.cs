@@ -8,8 +8,8 @@ namespace LifeInsuranceApplication.Repositories
     public class ClaimTypeRepository : IRepository<int, ClaimType>
     {
         private readonly InsuranceContext _context;
-                private readonly ILogger<PolicyRepository> _logger;
-        public ClaimTypeRepository(InsuranceContext context, ILogger<PolicyRepository> logger)
+                private readonly ILogger<ClaimTypeRepository> _logger;
+        public ClaimTypeRepository(InsuranceContext context, ILogger<ClaimTypeRepository> logger)
         {
             _context = context;
             _logger = logger;
@@ -25,7 +25,7 @@ namespace LifeInsuranceApplication.Repositories
             catch (Exception)
             {
                 _logger.LogError("Cannot created");
-                throw new Exception("Cannot be created policy ");
+                throw new Exception("Cannot be created claim ");
             }
         }
 
@@ -33,11 +33,7 @@ namespace LifeInsuranceApplication.Repositories
         {
             try{
                 ClaimType claims = await Get(key);
-                if (claims == null)
-                {
-                    throw new Exception("no policy found");
-                }
-                 _context.ClaimTypes.Remove(claims);
+               _context.ClaimTypes.Remove(claims);
                  await _context.SaveChangesAsync();
                  return claims;
             }catch(Exception ex)
@@ -84,13 +80,13 @@ namespace LifeInsuranceApplication.Repositories
         public async Task<ClaimType> Update(int key, ClaimType entity)
         {
              var claimType = await Get(key);
-            if (claimType != null)
-            {
+            //if (claimType != null)
+            //{
                claimType.ClaimName = entity.ClaimName;
                await _context.SaveChangesAsync();
                return claimType;
-            }
-            throw new Exception("message");
+            //}
+            
         }
     }
 }

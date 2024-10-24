@@ -1,9 +1,19 @@
-﻿namespace WebAPIWithDatabase.Models.DTO
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using WebAPIWithDatabase.Misc;
+
+namespace WebAPIWithDatabase.Models.DTO
 {
     public class UserCreateDTO
     {
+          [UsernameValidator]
         public string UserName { get; set; } = string.Empty;
-        public string Password { get; set; }=string.Empty;
-        public Roles Roles { get; set; }
+        [Required(ErrorMessage = "Password cannot be empty")]
+        [RegularExpression(@"^[a-zA-Z0-9]*$", ErrorMessage = "Password pattern worng")]
+        [DefaultValue("password")]
+        [MinLength(6, ErrorMessage = "Password must be at least 6 characters long")]
+        public string Password { get; set; } = string.Empty;
+        [Required(ErrorMessage = "Role cannot be empty")]
+        public Roles Roles { get; set; } 
     }
 }

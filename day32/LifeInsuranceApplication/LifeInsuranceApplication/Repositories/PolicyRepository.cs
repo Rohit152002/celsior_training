@@ -33,10 +33,7 @@ namespace LifeInsuranceApplication.Repositories
         {
             try{
                 Policy policy = await Get(key);
-                if (policy == null)
-                {
-                    throw new Exception("no policy found");
-                }
+             
                  _context.Policies.Remove(policy);
                  await _context.SaveChangesAsync();
                  return policy;
@@ -84,13 +81,12 @@ namespace LifeInsuranceApplication.Repositories
         public async Task<Policy> Update(int key, Policy entity)
         {
              var policy = await Get(key);
-            if (policy != null)
-            {
+            
                policy.PolicyNumber = entity.PolicyNumber;
                await _context.SaveChangesAsync();
                return policy;
-            }
-            throw new Exception("message");
+            
+            
         }
     }
 }

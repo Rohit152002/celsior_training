@@ -23,10 +23,21 @@ namespace WebAPIWithDatabase.Controllers
         {
             try
             {
-                var user = await _userService.Register(createDTO);
-                return Ok(user);
+               if(ModelState.IsValid)
+                {
+                    var user = await _userService.Register(createDTO);
+                    return Ok(user);
+                }
+                else
+                {
+                    return BadRequest(new ErrorResponseDTO
+                    {
+                        ErrorMessage = "one or more validation errors",
+                        ErrorNumber = 400
+                    });
+                }
             }
-            catch (Exception e)
+            catch(Exception e)
             {
                 _logger.LogError(e, "Could not register user");
                 return BadRequest(new ErrorResponseDTO
@@ -35,6 +46,7 @@ namespace WebAPIWithDatabase.Controllers
                     ErrorNumber = 500
                 });
             }
+
         }
 
         [HttpPost("Login")]

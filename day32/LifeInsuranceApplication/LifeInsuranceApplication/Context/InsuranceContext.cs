@@ -5,7 +5,7 @@ namespace LifeInsuranceApplication.Context
 {
     public class InsuranceContext:DbContext
     {
-        public InsuranceContext(DbContextOptions<InsuranceContext> options):base(options)
+        public InsuranceContext(DbContextOptions options):base(options)
         {
 
         }

@@ -37,7 +37,7 @@ namespace LifeInsuranceApplication
 
             #region mapper
             builder.Services.AddAutoMapper(typeof(Policy));
-            builder.Services.AddAutoMapper(typeof(ClaimTypeService));
+            builder.Services.AddAutoMapper(typeof(ClaimType));
             builder.Services.AddAutoMapper(typeof(Claim));
             #endregion
 
@@ -52,6 +52,8 @@ namespace LifeInsuranceApplication
                         provider.GetRequiredService<IMapper>()
                         )
                 );
+
+                
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

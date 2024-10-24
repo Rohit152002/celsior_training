@@ -20,16 +20,18 @@ namespace WebAPIWithDatabase
         ProductRepository repository;
         Mock<ILogger<ProductRepository>> logger;
         Mock<IMapper> mapper;
+       
 
 
         [SetUp]
         public void Setup()
         {
             options = new DbContextOptionsBuilder<ShoppingContext>()
-              .UseInMemoryDatabase("Test")
+              .UseInMemoryDatabase("testadd" + Guid.NewGuid())
               .Options;
             context = new ShoppingContext(options);
             logger = new Mock<ILogger<ProductRepository>>();
+
             repository = new ProductRepository(context, logger.Object);
             mapper = new Mock<IMapper>();
         }

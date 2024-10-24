@@ -31,7 +31,7 @@ namespace WebAPIWithDatabaseTest
         public void Setup()
         {
             options = new DbContextOptionsBuilder<ShoppingContext>()
-            .UseInMemoryDatabase("TestAdd")
+            .UseInMemoryDatabase("testadd" + Guid.NewGuid())
               .Options;
             context = new ShoppingContext(options);
             loggerUserRepo = new Mock<ILogger<UserRepository>>();

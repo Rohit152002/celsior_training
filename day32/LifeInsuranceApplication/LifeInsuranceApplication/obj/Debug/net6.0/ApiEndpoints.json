@@ -23,17 +23,17 @@
         "IsRequired": false
       },
       {
-        "Name": "ClaimaintName",
+        "Name": "ClaimantName",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "ClaimaintPhone",
+        "Name": "ClaimantPhone",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "ClaimaintEmail",
+        "Name": "ClaimantEmail",
         "Type": "System.String",
         "IsRequired": false
       },

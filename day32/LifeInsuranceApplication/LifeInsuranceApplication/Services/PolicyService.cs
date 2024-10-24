@@ -63,9 +63,6 @@ namespace LifeInsuranceApplication.Services
         {
             try{
                 Policy policy = await _repository.Get(policyId);
-                if (policy == null){
-                    throw new Exception("Not found");
-                }
                 var policydata =  _mapper.Map<PolicyDTO>(policy);
                 return policydata;
             }catch(Exception ex)

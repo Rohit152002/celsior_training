@@ -8,8 +8,8 @@ namespace LifeInsuranceApplication.Repositories
     public class ClaimRepository : IRepository<int, Claim>
     {
         private readonly InsuranceContext _context;
-        private readonly ILogger<PolicyRepository> _logger;
-        public ClaimRepository(InsuranceContext context, ILogger<PolicyRepository> logger)
+        private readonly ILogger<ClaimRepository> _logger;
+        public ClaimRepository(InsuranceContext context, ILogger<ClaimRepository> logger)
         {
             _context = context;
             _logger = logger;
@@ -33,10 +33,6 @@ namespace LifeInsuranceApplication.Repositories
         {
             try{
                 Claim claims = await Get(key);
-                if (claims == null)
-                {
-                    throw new Exception("no policy found");
-                }
                  _context.Claims.Remove(claims);
                  await _context.SaveChangesAsync();
                  return claims;
@@ -84,14 +80,12 @@ namespace LifeInsuranceApplication.Repositories
         public async Task<Claim> Update(int key, Claim entity)
         {
              var claims = await Get(key);
-            if (claims != null)
-            {
+            
                claims.ClaimantName = entity.ClaimantName;
                claims.ClaimantEmail= entity.ClaimantEmail;
                await _context.SaveChangesAsync();
                return claims;
-            }
-            throw new Exception("message");
+            
         }
     }
 }
