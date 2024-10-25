@@ -99,7 +99,7 @@ namespace LifeInsuranceApplicationTest
             var writer = new StreamWriter(stream);
             writer.Write(fileContent);
             writer.Flush();
-            stream.Position = 0; // Reset stream position
+            stream.Position = 0; 
 
             formFile.Setup(f => f.Length).Returns(stream.Length);
             formFile.Setup(f => f.FileName).Returns(fileName);

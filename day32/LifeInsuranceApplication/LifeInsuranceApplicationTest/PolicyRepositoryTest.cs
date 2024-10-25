@@ -39,7 +39,9 @@ namespace LifeInsuranceApplicationTest
             Policy policy = new Policy
             {
                 Id = 1,
-                PolicyNumber = "FALDKJF213"
+                PolicyNumber = "FALDKJF213",
+                PolicyDescription="General Policy"
+
             };
 
             var policyAdded = await repository.Create(policy);
@@ -52,7 +54,8 @@ namespace LifeInsuranceApplicationTest
             Policy policy = new Policy
             {
                 Id = 1,
-                PolicyNumber = null
+                PolicyNumber = null,
+                PolicyDescription = "General Policy"
             };
             Assert.ThrowsAsync<Exception>(async () => await repository.Create(policy));
         }
@@ -63,7 +66,8 @@ namespace LifeInsuranceApplicationTest
             Policy policy = new Policy
             {
                 Id = 1,
-                PolicyNumber = "FALDKJF213"
+                PolicyNumber = "FALDKJF213",
+                PolicyDescription = "General Policy"
             };
 
             var policyAdded = await repository.Create(policy);
@@ -85,7 +89,8 @@ namespace LifeInsuranceApplicationTest
             Policy policy = new Policy
             {
                 Id = 1,
-                PolicyNumber = "FALDKJF213"
+                PolicyNumber = "FALDKJF213",
+                PolicyDescription = "General Policy"
             };
 
          
@@ -111,7 +116,8 @@ namespace LifeInsuranceApplicationTest
             Policy policy = new Policy
             {
                 Id = 1,
-                PolicyNumber = "FALDKJF213"
+                PolicyNumber = "FALDKJF213",
+                PolicyDescription = "General Policy"
             };
 
 
@@ -119,7 +125,8 @@ namespace LifeInsuranceApplicationTest
 
             Policy updatepolicy = new Policy
             {
-                PolicyNumber = "FALDKJF113"
+                PolicyNumber = "FALDKJF113",
+                PolicyDescription = "General Policy"
             };
 
 

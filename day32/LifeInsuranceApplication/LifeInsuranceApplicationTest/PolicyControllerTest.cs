@@ -7,6 +7,7 @@ using LifeInsuranceApplication.Models;
 using LifeInsuranceApplication.Models.DTO;
 using LifeInsuranceApplication.Repositories;
 using LifeInsuranceApplication.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -43,11 +44,13 @@ namespace LifeInsuranceApplicationTest
         {
             PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = "FLDSKJ223"
+                PolicyNumber = "FLDSKJ223",
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
-                PolicyNumber = "FLDSKJ223"
+                PolicyNumber = "FLDSKJ223",
+                PolicyDescription = "General Policy"
             };
 
             // service = new PolicyService(repository, mapper.Object);
@@ -65,21 +68,21 @@ namespace LifeInsuranceApplicationTest
         {
             PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = null
+                PolicyNumber = null,
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
-                PolicyNumber = null
+                PolicyNumber = null,
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 
               var result = await controller.CreatePolicyAsync(policyDTO);
             Assert.IsNotNull(result);
-           
-            var resultObject = result as OkObjectResult;
-            // Assert
-            Assert.IsNotNull(resultObject);
-            Assert.AreEqual(500, resultObject.StatusCode);
+    var resultObject = result as ObjectResult; // Use ObjectResult for BadRequest
+    Assert.IsNotNull(resultObject);
+    Assert.AreEqual(StatusCodes.Status400BadRequest, resultObject.StatusCode);
         }
         
         //        public async Task<IActionResult> GetAllPolicyAsync()
@@ -89,11 +92,13 @@ namespace LifeInsuranceApplicationTest
         {
              PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = "ALSDKFJ23"
-            };
+                PolicyNumber = "ALSDKFJ23",
+                 PolicyDescription = "General Policy"
+             };
             Policy policy = new Policy
             {
-                PolicyNumber = "ALSDKFJ23"
+                PolicyNumber = "ALSDKFJ23",
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 
@@ -107,25 +112,28 @@ namespace LifeInsuranceApplicationTest
             Assert.IsNotNull(resultObject);
             Assert.AreEqual(200, resultObject.StatusCode);
         }
+
+        
+        [Test]
         public async Task TestGetAllPolicyException()
         {
                PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = "ALSDKFJ23"
-            };
+                PolicyNumber = "ALSDKFJ23",
+                   PolicyDescription = "General Policy"
+               };
             Policy policy = new Policy
             {
-                PolicyNumber = "ALSDKFJ23"
+                PolicyNumber = "ALSDKFJ23",
+                PolicyDescription = "General Policy"
             };
             
             mapper.Setup(m => m.Map<PolicyDTO>(policy)).Returns(policyDTO);
               var reponse = await controller.GetAllPolicyAsync();
-                Assert.IsNotNull(reponse);
-           
-            var resultObject = reponse as OkObjectResult;
-            // Assert
-            Assert.IsNotNull(resultObject);
-            Assert.AreEqual(200, resultObject.StatusCode);
+              Assert.IsNotNull(reponse);
+    var resultObject = reponse as ObjectResult; // Use ObjectResult for BadRequest
+    Assert.IsNotNull(resultObject);
+    Assert.AreEqual(StatusCodes.Status400BadRequest, resultObject.StatusCode);
         }
 
         

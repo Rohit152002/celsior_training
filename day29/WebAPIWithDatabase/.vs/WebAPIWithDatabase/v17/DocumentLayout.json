@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\models\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\models\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F904357F-E7DB-4AF0-8FBD-61039E87E231}|WebAPIWithDatabaseTest\\WebAPIWithDatabaseTest.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabasetest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F904357F-E7DB-4AF0-8FBD-61039E87E231}|WebAPIWithDatabaseTest\\WebAPIWithDatabaseTest.csproj|solutionrelative:webapiwithdatabasetest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F904357F-E7DB-4AF0-8FBD-61039E87E231}|WebAPIWithDatabaseTest\\WebAPIWithDatabaseTest.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabasetest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F904357F-E7DB-4AF0-8FBD-61039E87E231}|WebAPIWithDatabaseTest\\WebAPIWithDatabaseTest.csproj|solutionrelative:webapiwithdatabasetest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\interfaces\\icustomerbasicservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\models\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\models\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\models\\responsenewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\models\\responsenewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\models\\dto\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\models\\dto\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|solutionrelative:webapiwithdatabase\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA98BFEA-E921-485A-8CE5-0A704F77CA20}|WebAPIWithDatabase\\WebAPIWithDatabase.csproj|c:\\users\\rohit.laishram.pyramidindia\\documents\\celsior_training\\day29\\webapiwithdatabase\\webapiwithdatabase\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -234,11 +234,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Controllers\\CustomerController.cs",
@@ -250,23 +250,6 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\ProductServiceTest.cs",
-              "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\ProductServiceTest.cs",
-              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\ProductServiceTest.cs",
-              "RelativeToolTip": "WebAPIWithDatabaseTest\\ProductServiceTest.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAuwDcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:03:49.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -275,8 +258,24 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\ProductServiceTest.cs",
+              "RelativeToolTip": "WebAPIWithDatabaseTest\\ProductServiceTest.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:03:49.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductControllertest.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\ProductControllertest.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\ProductControllertest.cs",
@@ -284,25 +283,24 @@
               "RelativeToolTip": "WebAPIWithDatabaseTest\\ProductControllertest.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:28:27.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T10:28:27.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\UserControllerTest.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\UserControllerTest.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\UserControllerTest.cs",
               "RelativeToolTip": "WebAPIWithDatabaseTest\\UserControllerTest.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAiwDkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:30:08.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\UnitTest1.cs",
@@ -310,12 +308,11 @@
               "RelativeToolTip": "WebAPIWithDatabaseTest\\UnitTest1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:30:57.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:30:57.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UserRepositoryTest.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\UserRepositoryTest.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\UserRepositoryTest.cs",
@@ -323,12 +320,11 @@
               "RelativeToolTip": "WebAPIWithDatabaseTest\\UserRepositoryTest.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwBoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:58:16.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T06:58:16.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UserServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\UserServiceTest.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\UserServiceTest.cs",
@@ -336,12 +332,11 @@
               "RelativeToolTip": "WebAPIWithDatabaseTest\\UserServiceTest.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAxwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:38:40.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:38:40.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Services\\UserService.cs",
@@ -349,23 +344,25 @@
               "RelativeToolTip": "WebAPIWithDatabase\\Services\\UserService.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:17:27.158Z"
+              "WhenOpened": "2024-10-22T07:17:27.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebAPIWithDatabase\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:42:15.802Z"
+              "WhenOpened": "2024-10-22T08:42:15.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CustomerDTO.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\DTO\\CustomerDTO.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\DTO\\CustomerDTO.cs",
@@ -377,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ProductRepositoryTest.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabaseTest\\ProductRepositoryTest.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabaseTest\\ProductRepositoryTest.cs",
@@ -385,12 +382,11 @@
               "RelativeToolTip": "WebAPIWithDatabaseTest\\ProductRepositoryTest.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwBsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:11:53.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T07:11:53.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CustomerBasicServices.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Services\\CustomerBasicServices.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Services\\CustomerBasicServices.cs",
@@ -402,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "LoginRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\DTO\\LoginRequestDTO.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\DTO\\LoginRequestDTO.cs",
@@ -414,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\DTO\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\DTO\\LoginResponseDTO.cs",
@@ -426,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\Cart.cs",
@@ -438,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\Customer.cs",
@@ -450,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ICustomerBasicServices.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Interfaces\\ICustomerBasicServices.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Interfaces\\ICustomerBasicServices.cs",
@@ -462,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Repositories\\CustomerRepository.cs",
@@ -474,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ShoppingContext.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Contexts\\ShoppingContext.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Contexts\\ShoppingContext.cs",
@@ -486,19 +482,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "UserCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\DTO\\UserCreateDTO.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\DTO\\UserCreateDTO.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\DTO\\UserCreateDTO.cs",
               "RelativeToolTip": "WebAPIWithDatabase\\Models\\DTO\\UserCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:55:42.723Z"
+              "WhenOpened": "2024-10-22T04:55:42.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ErrorResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\DTO\\ErrorResponseDTO.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\DTO\\ErrorResponseDTO.cs",
@@ -510,27 +507,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\User.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\User.cs",
               "RelativeToolTip": "WebAPIWithDatabase\\Models\\User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:54:40.694Z"
+              "WhenOpened": "2024-10-22T04:54:40.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "WebAPIWithDatabase\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADgvxwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAzwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:07:36.937Z"
+              "WhenOpened": "2024-10-22T06:07:36.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -546,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ResponseNewProduct.cs",
               "DocumentMoniker": "C:\\Users\\rohit.laishram.PYRAMIDINDIA\\Documents\\celsior_training\\day29\\WebAPIWithDatabase\\WebAPIWithDatabase\\Models\\ResponseNewProduct.cs",
               "RelativeDocumentMoniker": "WebAPIWithDatabase\\Models\\ResponseNewProduct.cs",
@@ -927,10 +926,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T04:23:50.447Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

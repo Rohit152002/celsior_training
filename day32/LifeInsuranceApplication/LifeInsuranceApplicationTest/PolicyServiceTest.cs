@@ -46,11 +46,13 @@ namespace LifeInsuranceApplicationTest
         {
             PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = "FLDSKJ223"
+                PolicyNumber = "FLDSKJ223",
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
-                PolicyNumber = "FLDSKJ223"
+                PolicyNumber = "FLDSKJ223",
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 
@@ -63,11 +65,13 @@ namespace LifeInsuranceApplicationTest
         {
             PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = null
+                PolicyNumber = null,
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
-                PolicyNumber = null
+                PolicyNumber = null,
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 
@@ -80,11 +84,13 @@ namespace LifeInsuranceApplicationTest
         {
             PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = "FDLJFD97"
+                PolicyNumber = "FDLJFD97",
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
-                PolicyNumber = "FDLJFD97"
+                PolicyNumber = "FDLJFD97",
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 
@@ -112,11 +118,13 @@ namespace LifeInsuranceApplicationTest
         {
             PolicyDTO policyDTO = new PolicyDTO
             {
-                PolicyNumber = "FDLJFD97"
+                PolicyNumber = "FDLJFD97",
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
-                PolicyNumber = "FDLJFD97"
+                PolicyNumber = "FDLJFD97",
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 
@@ -141,11 +149,14 @@ namespace LifeInsuranceApplicationTest
             PolicyDTO policyDTO = new PolicyDTO
             {
                 
-                PolicyNumber = "FDLJFD97"
+                PolicyNumber = "FDLJFD97",
+                PolicyDescription = "General Policy"
             };
             Policy policy = new Policy
             {
                 PolicyNumber = "FDLJFD97"
+                ,
+                PolicyDescription = "General Policy"
             };
             mapper.Setup(m => m.Map<Policy>(policyDTO)).Returns(policy);
 

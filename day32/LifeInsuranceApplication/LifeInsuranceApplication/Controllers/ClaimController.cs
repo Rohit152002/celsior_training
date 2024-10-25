@@ -1,4 +1,5 @@
 ﻿using LifeInsuranceApplication.Interface;
+using LifeInsuranceApplication.Models;
 using LifeInsuranceApplication.Models.DTO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,7 +22,9 @@ namespace LifeInsuranceApplication.Controllers
             try
             {
                 var claim= await _claimService.RequestNewClaim(claimDTO);
-                return Ok(claim);
+                return Ok(new ResponseNewCreated
+                { Id=claim,
+                Message="A new Claim has been requested"});
             }
             catch (Exception ex)
             {

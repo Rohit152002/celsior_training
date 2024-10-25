@@ -18,13 +18,13 @@ namespace LifeInsuranceApplication.Services
             _uploadFolder = uploadFolder;
             Directory.CreateDirectory(_uploadFolder);
         }
-        public async Task<IEnumerable<ClaimDTO>> GetClaims()
+        public async Task<IEnumerable<Claim>> GetClaims()
         {
             try
             {
                 var claims = await _repository.GetAll();
-                var claimsDTO= _mapper.Map<IEnumerable<ClaimDTO>>(claims);
-                return claimsDTO;
+                // var claimsDTO= _mapper.Map<IEnumerable<ClaimDTO>>(claims);
+                return claims;
             }
             catch (Exception ex)
             {
