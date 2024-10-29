@@ -1,5 +1,7 @@
 namespace LifeInsuranceApplication.Models.DTO
 {
+ 
+
     public class ClaimDTO
     {
                 public int PolicyId { get; set; }
@@ -16,6 +18,7 @@ namespace LifeInsuranceApplication.Models.DTO
         public IFormFile? AddressProof {get; set;}
         public IFormFile? CancelCheck  {get; set;}
         public IFormFile? Other  {get; set;}
+
 
     }
 }

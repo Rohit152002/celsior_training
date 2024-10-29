@@ -9,8 +9,8 @@ namespace LifeInsuranceApplication.Mapper
     {
         public ClaimProfile()
         {
-            CreateMap<ClaimDTO,Claim>();
-            CreateMap<Claim,ClaimDTO>();
+            CreateMap<ClaimResponseDTO, CustomerClaim>();
+            CreateMap<CustomerClaim, ClaimResponseDTO>();
         }
     }
 }

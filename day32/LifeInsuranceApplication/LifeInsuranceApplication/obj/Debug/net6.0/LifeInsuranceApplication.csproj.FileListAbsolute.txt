@@ -8,6 +8,7 @@ C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsura
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -18,6 +19,7 @@ C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsura
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
@@ -70,3 +72,7 @@ C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsura
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\obj\Debug\net6.0\LifeInsuranceApplication.pdb
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\obj\Debug\net6.0\LifeInsuranceApplication.genruntimeconfig.cache
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\obj\Debug\net6.0\ref\LifeInsuranceApplication.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\MailKit.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\MimeKit.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplication\bin\Debug\net6.0\BouncyCastle.Crypto.dll

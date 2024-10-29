@@ -1,6 +1,7 @@
 ﻿using LifeInsuranceApplication.Interface;
 using LifeInsuranceApplication.Models;
 using LifeInsuranceApplication.Models.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,6 +18,7 @@ namespace LifeInsuranceApplication.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult> ClaimNewAsync([FromForm] ClaimDTO claimDTO)
         {
             try
@@ -33,6 +35,7 @@ namespace LifeInsuranceApplication.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult> GetClaimAsync()
         {
             try{
@@ -41,6 +44,21 @@ namespace LifeInsuranceApplication.Controllers
             }catch(Exception ex)
             {
                 return BadRequest(StatusCode(500,ex.Message));
+            }
+        }
+
+        [HttpPut]
+        [Authorize(Roles="Admin")]
+        public async Task<ActionResult> UpdateStatusClaim(UpdateStatusDTO updateStatusDTO)
+        {
+            try
+            {
+                var claims = await _claimService.UpdateClaimStatus(updateStatusDTO);
+                return Ok(claims);
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(StatusCode(500, ex.Message));
             }
         }
     }

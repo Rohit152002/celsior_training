@@ -22,7 +22,24 @@ namespace LifeInsuranceApplication.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("LifeInsuranceApplication.Models.Claim", b =>
+            modelBuilder.Entity("LifeInsuranceApplication.Models.ClaimType", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("ClaimName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ClaimTypes");
+                });
+
+            modelBuilder.Entity("LifeInsuranceApplication.Models.CustomerClaim", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -73,30 +90,16 @@ namespace LifeInsuranceApplication.Migrations
                     b.Property<string>("SettleForm")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("status")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("ClaimTypeId");
 
                     b.HasIndex("PolicyId");
 
-                    b.ToTable("Claims");
-                });
-
-            modelBuilder.Entity("LifeInsuranceApplication.Models.ClaimType", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("ClaimName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("ClaimTypes");
+                    b.ToTable("CustomerClaims");
                 });
 
             modelBuilder.Entity("LifeInsuranceApplication.Models.Policy", b =>
@@ -141,17 +144,17 @@ namespace LifeInsuranceApplication.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("LifeInsuranceApplication.Models.Claim", b =>
+            modelBuilder.Entity("LifeInsuranceApplication.Models.CustomerClaim", b =>
                 {
                     b.HasOne("LifeInsuranceApplication.Models.ClaimType", "ClaimType")
-                        .WithMany("Claims")
+                        .WithMany("CustomerClaims")
                         .HasForeignKey("ClaimTypeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired()
                         .HasConstraintName("FK_Claim_Type");
 
                     b.HasOne("LifeInsuranceApplication.Models.Policy", "Policy")
-                        .WithMany("Claims")
+                        .WithMany("CustomerClaims")
                         .HasForeignKey("PolicyId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired()
@@ -164,12 +167,12 @@ namespace LifeInsuranceApplication.Migrations
 
             modelBuilder.Entity("LifeInsuranceApplication.Models.ClaimType", b =>
                 {
-                    b.Navigation("Claims");
+                    b.Navigation("CustomerClaims");
                 });
 
             modelBuilder.Entity("LifeInsuranceApplication.Models.Policy", b =>
                 {
-                    b.Navigation("Claims");
+                    b.Navigation("CustomerClaims");
                 });
 #pragma warning restore 612, 618
         }

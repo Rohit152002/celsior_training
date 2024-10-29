@@ -7,24 +7,24 @@ namespace LifeInsuranceApplication.Services
 {
     public class ClaimService : IClaimService
     {
-        private readonly IRepository<int, Claim> _repository;
+        private readonly IRepository<int, CustomerClaim> _repository;
         private readonly string _uploadFolder;
         private IMapper _mapper;
 
-        public ClaimService(IRepository<int, Claim> repository, string uploadFolder,IMapper mapper)
+        public ClaimService(IRepository<int, CustomerClaim> repository, string uploadFolder,IMapper mapper)
         {
             _repository = repository;
             _mapper=mapper;
             _uploadFolder = uploadFolder;
             Directory.CreateDirectory(_uploadFolder);
         }
-        public async Task<IEnumerable<Claim>> GetClaims()
+        public async Task<IEnumerable<ClaimResponseDTO>> GetClaims()
         {
             try
             {
                 var claims = await _repository.GetAll();
-                // var claimsDTO= _mapper.Map<IEnumerable<ClaimDTO>>(claims);
-                return claims;
+                 var claimsDTO= _mapper.Map<IEnumerable<ClaimResponseDTO>>(claims);
+                return claimsDTO;
             }
             catch (Exception ex)
             {
@@ -36,7 +36,7 @@ namespace LifeInsuranceApplication.Services
         {
             try
             {
-                Claim claim = await MappingClaim(claimDTO);
+                CustomerClaim claim = await MappingClaim(claimDTO);
                 var newClaim = await _repository.Create(claim);
                 return newClaim;
             }
@@ -47,9 +47,9 @@ namespace LifeInsuranceApplication.Services
 
         }
 
-        public async Task<Claim> MappingClaim(ClaimDTO claimDTO)
+        public async Task<CustomerClaim> MappingClaim(ClaimDTO claimDTO)
         {
-            Claim claim = new Claim
+            CustomerClaim claim = new CustomerClaim
             {
                 PolicyId = claimDTO.PolicyId,
                 ClaimTypeId = claimDTO.ClaimTypeId,
@@ -84,5 +84,16 @@ namespace LifeInsuranceApplication.Services
 
             return uniqueFileName;
         }
+
+        public async Task<CustomerClaim> UpdateClaimStatus(UpdateStatusDTO updateStatusDTO)
+        {
+            CustomerClaim claim = await _repository.Get(updateStatusDTO.ClaimId);
+            claim.status = updateStatusDTO.Status;
+            CustomerClaim updateClaim= await _repository.Update(updateStatusDTO.ClaimId,claim);
+            //ClaimDTO claimDTO= _mapper.Map<ClaimDTO>(claim);
+            return updateClaim;
+        }
+
+       
     }
 }

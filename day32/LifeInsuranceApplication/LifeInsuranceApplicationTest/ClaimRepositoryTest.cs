@@ -35,7 +35,7 @@ namespace LifeInsuranceApplicationTest
         [Test]
         public async Task TestAddClaim()
         {
-            Claim claim = new Claim
+            CustomerClaim claim = new CustomerClaim
             {
                 PolicyId = 1,
                 ClaimTypeId =1,
@@ -59,7 +59,7 @@ namespace LifeInsuranceApplicationTest
         [Test]
         public async Task TestAddExceptionTest()
         {
-            Claim claim = new Claim
+            CustomerClaim claim = new CustomerClaim
             {
                 PolicyId = 1,
                 ClaimTypeId = 1,
@@ -81,7 +81,7 @@ namespace LifeInsuranceApplicationTest
         [Test]
         public async Task DeleteTest()
         {
-            Claim claim = new Claim
+            CustomerClaim claim = new CustomerClaim
             {
                 Id= 1,
                 PolicyId = 1,
@@ -115,7 +115,7 @@ namespace LifeInsuranceApplicationTest
         [Test]
         public async Task GetAll()
         {
-            Claim claim = new Claim
+            CustomerClaim claim = new CustomerClaim
             {
                 Id = 1,
                 PolicyId = 1,
@@ -152,7 +152,7 @@ namespace LifeInsuranceApplicationTest
         public async Task UpdateClaimTypeTest()
         {
 
-            Claim claim = new Claim
+            CustomerClaim claim = new CustomerClaim
             {
                 Id = 1,
                 PolicyId = 1,
@@ -172,7 +172,7 @@ namespace LifeInsuranceApplicationTest
 
             var claimadded = await repository.Create(claim);
 
-            Claim updateclaim = new Claim
+            CustomerClaim updateclaim = new CustomerClaim
             {
                 Id = 1,
                 PolicyId = 1,
@@ -199,7 +199,7 @@ namespace LifeInsuranceApplicationTest
         [Test]
         public async Task UpdateClaimTypeExceptionTest()
         {
-            Assert.ThrowsAsync<Exception>(async () => await repository.Update(1, new Claim { Other = "FAD2342SD" }));
+            Assert.ThrowsAsync<Exception>(async () => await repository.Update(1, new CustomerClaim { Other = "FAD2342SD" }));
 
         }
 

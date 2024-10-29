@@ -72,3 +72,5 @@ C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWith
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabase\obj\Debug\net6.0\WebAPIWithDatabase.pdb
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabase\obj\Debug\net6.0\WebAPIWithDatabase.genruntimeconfig.cache
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabase\obj\Debug\net6.0\ref\WebAPIWithDatabase.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabase\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day29\WebAPIWithDatabase\WebAPIWithDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

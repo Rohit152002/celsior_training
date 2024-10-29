@@ -1,15 +1,14 @@
-
-    using System.ComponentModel.DataAnnotations;
+﻿
+using System.ComponentModel.DataAnnotations;
 
 namespace LifeInsuranceApplication.Models
 {
     public enum Roles
     {
         Admin,
-        Supplier,
-        Customer,
-        Employee
+        Claimaint
     }
+
     public class User
     {
         [Key]
@@ -17,7 +16,8 @@ namespace LifeInsuranceApplication.Models
         public byte[] Password { get; set; }
         public byte[] HashKey { get; set; }
         public Roles Role { get; set; }
-    
+     
+
 
     }
 }

@@ -4,6 +4,7 @@ using LifeInsuranceApplication.Interface;
 using LifeInsuranceApplication.Models;
 using LifeInsuranceApplication.Models.DTO;
 using LifeInsuranceApplication.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LifeInsuranceApplication.Controller
@@ -37,6 +38,7 @@ namespace LifeInsuranceApplication.Controller
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAllPolicyAsync()
         {
             try

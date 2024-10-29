@@ -4,11 +4,11 @@ namespace LifeInsuranceApplication.Models
         public int Id {get;set;}
         public string PolicyNumber{get; set;}= string.Empty;
         public string PolicyDescription { get; set; } = string.Empty;
-        public IEnumerable<Claim> Claims {get;set;}
+        public IEnumerable<CustomerClaim> CustomerClaims {get;set;}
 
         public Policy()
         {
-            Claims = new List<Claim>();
+            CustomerClaims = new List<CustomerClaim>();
         } 
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebAPIWithDatabase.Interfaces;
 using WebAPIWithDatabase.Models;
@@ -19,7 +20,7 @@ namespace WebAPIWithDatabase.Controllers
             _logger = logger;
         }
         [HttpPost]
-
+        [Authorize(Roles="Admin")]
         public async Task<IActionResult> CreateProduct(ProductDTO product)
         {
             try
@@ -39,6 +40,7 @@ namespace WebAPIWithDatabase.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAllProduct()
         {
             try

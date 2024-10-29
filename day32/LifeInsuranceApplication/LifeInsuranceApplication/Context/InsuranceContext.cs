@@ -12,19 +12,19 @@ namespace LifeInsuranceApplication.Context
 
         public DbSet<Policy> Policies { get; set; }
         public DbSet<ClaimType> ClaimTypes{ get; set; }
-        public DbSet<Claim> Claims { get; set; }
+        public DbSet<CustomerClaim> CustomerClaims { get; set; }
         public DbSet<User> Users{ get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-           modelBuilder.Entity<Claim>()
+           modelBuilder.Entity<CustomerClaim>()
            .HasOne(c=>c.ClaimType)
-           .WithMany(c=>c.Claims)
+           .WithMany(c=>c.CustomerClaims)
            .HasForeignKey(c=>c.ClaimTypeId)
            .HasConstraintName("FK_Claim_Type");
 
-           modelBuilder.Entity<Claim>()
+           modelBuilder.Entity<CustomerClaim>()
            .HasOne(c=>c.Policy)
-           .WithMany(c=>c.Claims)
+           .WithMany(c=>c.CustomerClaims)
            .HasForeignKey(c=>c.PolicyId)
            .HasConstraintName("FK_Policy_Name");
         }

@@ -6,6 +6,7 @@ namespace LifeInsuranceApplication.Interface
     public interface IClaimService
     {
         public Task<int> RequestNewClaim(ClaimDTO claimDTO);
-        public Task<IEnumerable<Claim>> GetClaims();
+        public Task<IEnumerable<ClaimResponseDTO>> GetClaims();
+        public Task<CustomerClaim> UpdateClaimStatus(UpdateStatusDTO updateStatusDTO);
     }
 }

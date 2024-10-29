@@ -175,12 +175,11 @@ namespace LifeInsuranceApplicationTest
         public async Task TestExceptionGetClaim()
         {
                 // service.Setup(m => m.GetClaims()).ThrowsAsync(new Exception(exceptionMessage));
-
             var response = await controller.GetClaimAsync();
-           Assert.IsNotNull(response);
-    var resultObject = response as ObjectResult; // Use ObjectResult for BadRequest
-    Assert.IsNotNull(resultObject);
-    Assert.AreEqual(StatusCodes.Status400BadRequest, resultObject.StatusCode);
+            Assert.IsNotNull(response);
+            var resultObject = response as ObjectResult; // Use ObjectResult for BadRequest
+            Assert.IsNotNull(resultObject);
+            Assert.AreEqual(StatusCodes.Status400BadRequest, resultObject.StatusCode);
         }
 
     }

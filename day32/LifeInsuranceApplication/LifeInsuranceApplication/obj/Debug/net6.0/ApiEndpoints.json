@@ -86,6 +86,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "LifeInsuranceApplication.Controllers.ClaimController",
+    "Method": "UpdateStatusClaim",
+    "RelativePath": "api/Claim",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateStatusDTO",
+        "Type": "LifeInsuranceApplication.Models.DTO.UpdateStatusDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "LifeInsuranceApplication.Controllers.ClaimTypeController",
     "Method": "CreateClaimAsync",
     "RelativePath": "api/ClaimType",
@@ -136,5 +152,47 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDTO",
+        "Type": "LifeInsuranceApplication.Models.DTO.LoginRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LifeInsuranceApplication.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDTO",
+        "Type": "LifeInsuranceApplication.Models.DTO.UserCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LifeInsuranceApplication.Models.DTO.LoginRequestDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
