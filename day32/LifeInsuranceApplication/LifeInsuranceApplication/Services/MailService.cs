@@ -24,11 +24,12 @@ namespace LifeInsuranceApplication.Services
         private MimeMessage CreateEmailMessage(Message message)
         {
             var emailMessage = new MimeMessage();
-            emailMessage.From.Add(new MailboxAddress(_emailConfig.From));
+            emailMessage.From.Add(new MailboxAddress("email",_emailConfig.From));
             emailMessage.To.AddRange(message.To);
             emailMessage.Subject = message.Subject;
             emailMessage.Body = new TextPart(MimeKit.Text.TextFormat.Text) { Text = message.Content };
 
+                    Console.WriteLine(message.To);
             return emailMessage;
         }
 
@@ -43,11 +44,25 @@ namespace LifeInsuranceApplication.Services
                     client.Authenticate(_emailConfig.UserName, _emailConfig.Password);
 
                     client.Send(mailMessage);
+                    Console.WriteLine("Email sent successfully to: " + string.Join(", ", mailMessage.To));
                 }
-                catch
+                catch (SmtpProtocolException ex)
                 {
-                    //log an error message or throw an exception or both.
-                    throw;
+                    // Log specific SMTP protocol exception
+                    Console.WriteLine($"SMTP Protocol Error: {ex.Message}");
+                    throw; // Rethrow if needed
+                }
+                catch (SmtpCommandException ex)
+                {
+                    // Log command-specific errors
+                    Console.WriteLine($"SMTP Command Error:  - {ex.Message}");
+                    throw; // Rethrow if needed
+                }
+                catch (Exception ex)
+                {
+                    // Log generic errors
+                    Console.WriteLine($"Error sending email: {ex.Message}");
+                    throw; // Rethrow if needed
                 }
                 finally
                 {

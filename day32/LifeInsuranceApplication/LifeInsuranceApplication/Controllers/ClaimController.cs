@@ -1,4 +1,6 @@
 ﻿using LifeInsuranceApplication.Interface;
+using LifeInsuranceApplication.Interfaces;
+using LifeInsuranceApplication.Misc;
 using LifeInsuranceApplication.Models;
 using LifeInsuranceApplication.Models.DTO;
 using Microsoft.AspNetCore.Authorization;
@@ -12,9 +14,11 @@ namespace LifeInsuranceApplication.Controllers
     public class ClaimController : ControllerBase
     {
         private readonly IClaimService _claimService;
-        public ClaimController(IClaimService claimService)
+        private readonly IEmailSender _emailSender;
+        public ClaimController(IClaimService claimService, IEmailSender emailSender)
         {
             _claimService = claimService;
+            _emailSender = emailSender;
         }
 
         [HttpPost]
@@ -47,13 +51,16 @@ namespace LifeInsuranceApplication.Controllers
             }
         }
 
-        [HttpPut]
+        [HttpPatch]
         [Authorize(Roles="Admin")]
         public async Task<ActionResult> UpdateStatusClaim(UpdateStatusDTO updateStatusDTO)
         {
             try
             {
                 var claims = await _claimService.UpdateClaimStatus(updateStatusDTO);
+                var message = new Message(new string[] { "nilamanilaishram1979@gmail.com" }, "TaskUpdated", "Your Policy is updated successfully.");
+                _emailSender.SendEmail(message);
+                Console.WriteLine("email is send");
                 return Ok(claims);
             }
             catch(Exception ex)

@@ -12,7 +12,7 @@ namespace WebAPIWithDatabase.Services
         private readonly string _secretKey;
 
 
-   
+
         public TokenService(IConfiguration configuration)
         {
             _secretKey = configuration["JWT:SecretKey"];

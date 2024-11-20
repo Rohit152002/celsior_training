@@ -1,0 +1,105 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+
+.box {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 150px; 
+}
+
+.box img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+
+figcaption {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+}
+
+.tall {
+    height: 200px; 
+}
+
+
+.flex-direction-row {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+}
+
+.flex-direction-column {
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+    height: 400px; 
+}
+
+
+.justify-space-between {
+    margin-top: 14rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center; 
+}
+
+
+.align-items-center {
+    display: flex;
+    align-items: center; 
+    height: 250px; 
+}
+
+.align-items-flex-start {
+    display: flex;
+    align-items: flex-start; 
+    height: 250px;
+}
+
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px; 
+}
+
+
+.align-content {
+    display: flex;
+    flex-wrap: wrap; 
+    align-content: space-between;
+    height: 300px; 
+    gap: 10px; 
+}
+
+
+

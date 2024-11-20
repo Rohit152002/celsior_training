@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="productContainer">
+            <h1>Products</h1>
+
+            <div id="Products"></div>
+        </div>
+        <div class="cartcontainer">
+            <h1>Cart</h1>
+
+            <div id="Carts"></div>
+        </div>
+    </div>
+</body>
+
+
+
+<script>
+
+    let products = [];
+
+    fetch('https://dummyjson.com/products')
+        .then(res => res.json())
+        .then((data) => {
+            data.products.forEach(product => {
+                products.push(product)
+            });
+
+            const productsDiv = document.querySelector("#Products");
+            const cartsDiv = document.querySelector("#Carts")
+
+            products.forEach(product => {
+                const productDiv = document.createElement("div")
+                productDiv.classList.add("product-card")
+
+                productDiv.innerHTML = `
+       <p class="product-title">${product.title}</p>
+            <p class="product-description">${product.description}</p>
+            <p class="product-category">${product.category}</p>
+            <p class="product-price">Price: $${product.price}</p>
+            <p class="product-discount">Discount: ${product.discountPercentage}%</p>
+            <p class="product-stock">Stock: ${product.stock}</p>
+            <p class="product-brand">Brand: ${product.brand}</p>
+
+
+        `
+                const tagsContainer = document.createElement('div')
+                tagsContainer.classList.add("product-tags");
+                product.tags.forEach(tag => {
+                    const tagButton = document.createElement('button')
+                    tagButton.className = "product-tag"
+                    tagButton.type = "button"
+                    tagButton.innerText = `#${tag}`
+                    tagsContainer.append(tagButton)
+                });
+
+
+                productDiv.appendChild(tagsContainer);
+
+                const addCartButton = document.createElement("button")
+                addCartButton.innerText = 'Add To Cart'
+                addCartButton.className = 'add-cart'
+
+                addCartButton.addEventListener("click", () => {
+                    fetch('https://dummyjson.com/carts/add', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            userId: 1,
+                            products: [
+                                {
+                                    id: product.id,
+                                    quantity: 1,
+                                },
+                            ]
+                        })
+                    })
+                        .then(res => res.json())
+                        .then(console.log("success"));
+
+
+                    const cartDiv = document.createElement("div")
+                    cartDiv.classList.add("product-card")
+
+                    cartDiv.innerHTML = `
+                        <p class="product-title">${product.title}</p>
+                        <p class="product-description">${product.description}</p>
+                        <p class="product-category">${product.category}</p>
+                        <p class="product-price">Price: $${product.price}</p>
+                        <p class="product-discount">Discount: ${product.discountPercentage}%</p>
+                        <p class="product-stock">Stock: ${product.stock}</p>
+                        <p class="product-brand">Brand: ${product.brand}</p>`
+
+                        const tagsContainer = document.createElement('div')
+                tagsContainer.classList.add("product-tags");
+                product.tags.forEach(tag => {
+                    const tagButton = document.createElement('button')
+                    tagButton.className = "product-tag"
+                    tagButton.type = "button"
+                    tagButton.innerText = `#${tag}`
+                    tagsContainer.append(tagButton)
+                });
+                cartDiv.append(tagsContainer)
+
+                        cartsDiv.append(cartDiv);
+                })
+                productDiv.appendChild(addCartButton)
+                productsDiv.append(productDiv);
+            }
+            )
+        });
+
+
+
+
+
+</script>
+
+</html>

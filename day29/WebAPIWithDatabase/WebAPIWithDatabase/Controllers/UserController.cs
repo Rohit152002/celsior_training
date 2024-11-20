@@ -2,11 +2,13 @@
 using Microsoft.AspNetCore.Mvc;
 using WebAPIWithDatabase.Interfaces;
 using WebAPIWithDatabase.Models.DTO;
+using Microsoft.AspNetCore.Cors;
 
 namespace WebAPIWithDatabase.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAll")]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;

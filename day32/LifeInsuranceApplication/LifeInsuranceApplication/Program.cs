@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using NETCore.MailKit.Core;
 using System.Text;
 
 namespace LifeInsuranceApplication
@@ -119,6 +120,8 @@ namespace LifeInsuranceApplication
                         provider.GetRequiredService<IMapper>()
                         )
                 );
+
+            builder.Services.AddScoped<IEmailSender,MailService>();
 
             var emailConfig=builder.Configuration.GetSection("EmailConfiguration").Get<EmailConfiguration>();
 

@@ -152,3 +152,7 @@ C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsura
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\obj\Debug\net6.0\LifeInsuranceApplicationTest.pdb
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\obj\Debug\net6.0\LifeInsuranceApplicationTest.genruntimeconfig.cache
 C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\obj\Debug\net6.0\ref\LifeInsuranceApplicationTest.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\bin\Debug\net6.0\MailKit.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\bin\Debug\net6.0\MimeKit.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\rohit.laishram.PYRAMIDINDIA\Documents\celsior_training\day32\LifeInsuranceApplication\LifeInsuranceApplicationTest\bin\Debug\net6.0\BouncyCastle.Crypto.dll

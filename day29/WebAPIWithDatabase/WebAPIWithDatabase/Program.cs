@@ -94,8 +94,17 @@ namespace WebAPIWithDatabase
                     }
                 });
             });
+             builder.Services.AddCors(options =>
+                {
+                    options.AddPolicy("AllowAll", builder =>
+                    {
+                        builder.AllowAnyOrigin()
+                                .AllowAnyMethod()
+                                .AllowAnyHeader();
+                    });
+                });
 
-   
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -105,8 +114,12 @@ namespace WebAPIWithDatabase
                 app.UseSwaggerUI();
             }
 
+
             app.UseAuthentication();
             app.UseAuthorization();
+
+
+            app.UseCors("AllowAll");
 
 
             app.MapControllers();
@@ -116,5 +129,3 @@ namespace WebAPIWithDatabase
         }
     }
 }
-
-
